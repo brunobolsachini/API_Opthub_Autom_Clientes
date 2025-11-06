@@ -1,0 +1,3059 @@
+Atualizado em: 06/11/2025 14:21
+Registros encontrados: 1
+
+{
+  "Errors": [],
+  "IsValid": true,
+  "Warnings": null,
+  "Page": {
+    "ErrorMessage": null,
+    "Index": 0,
+    "PageCount": 0,
+    "PageSize": 468,
+    "RecordCount": 39
+  },
+  "Result": [
+    {
+      "CustomerID": 64,
+      "CustomerName": "Buyer Marchon",
+      "ModerationStatus": [
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 10,
+          "SellerName": "Marketplace"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 11,
+          "SellerName": "LENÇO MÁGICO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 14,
+          "SellerName": "SAFILO"
+        },
+        {
+          "CustomerAcceptanceStatus": "approved",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 15,
+          "SellerName": "MARCHON"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 17,
+          "SellerName": "HB"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 51,
+          "SellerName": "LUXOTTICA"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 52,
+          "SellerName": "DUSTER CONCEPT"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 53,
+          "SellerName": "COMPRE ÓCULOS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 54,
+          "SellerName": "FEMI HEARTS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 55,
+          "SellerName": "DETROIT EYEWEAR"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 56,
+          "SellerName": "BELARO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 57,
+          "SellerName": "JADSOL"
+        }
+      ]
+    },
+    {
+      "CustomerID": 68,
+      "CustomerName": "Buyer Opthub",
+      "ModerationStatus": [
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 57,
+          "SellerName": "JADSOL"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 56,
+          "SellerName": "BELARO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 55,
+          "SellerName": "DETROIT EYEWEAR"
+        },
+        {
+          "CustomerAcceptanceStatus": "approved",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 54,
+          "SellerName": "FEMI HEARTS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 53,
+          "SellerName": "COMPRE ÓCULOS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 52,
+          "SellerName": "DUSTER CONCEPT"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 51,
+          "SellerName": "LUXOTTICA"
+        },
+        {
+          "CustomerAcceptanceStatus": "approved",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 17,
+          "SellerName": "HB"
+        },
+        {
+          "CustomerAcceptanceStatus": "approved",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 15,
+          "SellerName": "MARCHON"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 14,
+          "SellerName": "SAFILO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 11,
+          "SellerName": "LENÇO MÁGICO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 10,
+          "SellerName": "Marketplace"
+        }
+      ]
+    },
+    {
+      "CustomerID": 69,
+      "CustomerName": "Stéphanie",
+      "ModerationStatus": [
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 10,
+          "SellerName": "Marketplace"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 11,
+          "SellerName": "LENÇO MÁGICO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 14,
+          "SellerName": "SAFILO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 15,
+          "SellerName": "MARCHON"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 17,
+          "SellerName": "HB"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 51,
+          "SellerName": "LUXOTTICA"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 52,
+          "SellerName": "DUSTER CONCEPT"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 53,
+          "SellerName": "COMPRE ÓCULOS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 54,
+          "SellerName": "FEMI HEARTS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 55,
+          "SellerName": "DETROIT EYEWEAR"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 56,
+          "SellerName": "BELARO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 57,
+          "SellerName": "JADSOL"
+        }
+      ]
+    },
+    {
+      "CustomerID": 71,
+      "CustomerName": "Compre Óculos",
+      "ModerationStatus": [
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 57,
+          "SellerName": "JADSOL"
+        },
+        {
+          "CustomerAcceptanceStatus": "approved",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 56,
+          "SellerName": "BELARO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 55,
+          "SellerName": "DETROIT EYEWEAR"
+        },
+        {
+          "CustomerAcceptanceStatus": "approved",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 54,
+          "SellerName": "FEMI HEARTS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 53,
+          "SellerName": "COMPRE ÓCULOS"
+        },
+        {
+          "CustomerAcceptanceStatus": "approved",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 52,
+          "SellerName": "DUSTER CONCEPT"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 51,
+          "SellerName": "LUXOTTICA"
+        },
+        {
+          "CustomerAcceptanceStatus": "approved",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 17,
+          "SellerName": "HB"
+        },
+        {
+          "CustomerAcceptanceStatus": "approved",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 15,
+          "SellerName": "MARCHON"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 14,
+          "SellerName": "SAFILO"
+        },
+        {
+          "CustomerAcceptanceStatus": "approved",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 11,
+          "SellerName": "LENÇO MÁGICO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 10,
+          "SellerName": "Marketplace"
+        }
+      ]
+    },
+    {
+      "CustomerID": 79,
+      "CustomerName": "Cristiano Linx",
+      "ModerationStatus": [
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 10,
+          "SellerName": "Marketplace"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 11,
+          "SellerName": "LENÇO MÁGICO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 14,
+          "SellerName": "SAFILO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 15,
+          "SellerName": "MARCHON"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 17,
+          "SellerName": "HB"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 51,
+          "SellerName": "LUXOTTICA"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 52,
+          "SellerName": "DUSTER CONCEPT"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 53,
+          "SellerName": "COMPRE ÓCULOS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 54,
+          "SellerName": "FEMI HEARTS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 55,
+          "SellerName": "DETROIT EYEWEAR"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 56,
+          "SellerName": "BELARO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 57,
+          "SellerName": "JADSOL"
+        }
+      ]
+    },
+    {
+      "CustomerID": 80,
+      "CustomerName": "SANTO CAPOBIANCO JUNIOR",
+      "ModerationStatus": [
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 57,
+          "SellerName": "JADSOL"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 56,
+          "SellerName": "BELARO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 55,
+          "SellerName": "DETROIT EYEWEAR"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 54,
+          "SellerName": "FEMI HEARTS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 53,
+          "SellerName": "COMPRE ÓCULOS"
+        },
+        {
+          "CustomerAcceptanceStatus": "approved",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 52,
+          "SellerName": "DUSTER CONCEPT"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 51,
+          "SellerName": "LUXOTTICA"
+        },
+        {
+          "CustomerAcceptanceStatus": "approved",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 17,
+          "SellerName": "HB"
+        },
+        {
+          "CustomerAcceptanceStatus": "approved",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 15,
+          "SellerName": "MARCHON"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 14,
+          "SellerName": "SAFILO"
+        },
+        {
+          "CustomerAcceptanceStatus": "approved",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 11,
+          "SellerName": "LENÇO MÁGICO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 10,
+          "SellerName": "Marketplace"
+        }
+      ]
+    },
+    {
+      "CustomerID": 84,
+      "CustomerName": "Bruno",
+      "ModerationStatus": [
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 10,
+          "SellerName": "Marketplace"
+        },
+        {
+          "CustomerAcceptanceStatus": "approved",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 11,
+          "SellerName": "LENÇO MÁGICO"
+        },
+        {
+          "CustomerAcceptanceStatus": "approved",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 14,
+          "SellerName": "SAFILO"
+        },
+        {
+          "CustomerAcceptanceStatus": "approved",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 15,
+          "SellerName": "MARCHON"
+        },
+        {
+          "CustomerAcceptanceStatus": "approved",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 17,
+          "SellerName": "HB"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 51,
+          "SellerName": "LUXOTTICA"
+        },
+        {
+          "CustomerAcceptanceStatus": "approved",
+          "SellerAcceptanceStatus": "reproved",
+          "SellerID": 52,
+          "SellerName": "DUSTER CONCEPT"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 53,
+          "SellerName": "COMPRE ÓCULOS"
+        },
+        {
+          "CustomerAcceptanceStatus": "approved",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 54,
+          "SellerName": "FEMI HEARTS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 55,
+          "SellerName": "DETROIT EYEWEAR"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 56,
+          "SellerName": "BELARO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 57,
+          "SellerName": "JADSOL"
+        }
+      ]
+    },
+    {
+      "CustomerID": 86,
+      "CustomerName": "Vinícius Borges",
+      "ModerationStatus": [
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 57,
+          "SellerName": "JADSOL"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 56,
+          "SellerName": "BELARO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 55,
+          "SellerName": "DETROIT EYEWEAR"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 54,
+          "SellerName": "FEMI HEARTS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 53,
+          "SellerName": "COMPRE ÓCULOS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 52,
+          "SellerName": "DUSTER CONCEPT"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 51,
+          "SellerName": "LUXOTTICA"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 17,
+          "SellerName": "HB"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 15,
+          "SellerName": "MARCHON"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 14,
+          "SellerName": "SAFILO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 11,
+          "SellerName": "LENÇO MÁGICO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 10,
+          "SellerName": "Marketplace"
+        }
+      ]
+    },
+    {
+      "CustomerID": 88,
+      "CustomerName": "Eduardo luz",
+      "ModerationStatus": [
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 10,
+          "SellerName": "Marketplace"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 11,
+          "SellerName": "LENÇO MÁGICO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 14,
+          "SellerName": "SAFILO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 15,
+          "SellerName": "MARCHON"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 17,
+          "SellerName": "HB"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 51,
+          "SellerName": "LUXOTTICA"
+        },
+        {
+          "CustomerAcceptanceStatus": "approved",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 52,
+          "SellerName": "DUSTER CONCEPT"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 53,
+          "SellerName": "COMPRE ÓCULOS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 54,
+          "SellerName": "FEMI HEARTS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 55,
+          "SellerName": "DETROIT EYEWEAR"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 56,
+          "SellerName": "BELARO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 57,
+          "SellerName": "JADSOL"
+        }
+      ]
+    },
+    {
+      "CustomerID": 92,
+      "CustomerName": "Conta Teste",
+      "ModerationStatus": [
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 57,
+          "SellerName": "JADSOL"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 56,
+          "SellerName": "BELARO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 55,
+          "SellerName": "DETROIT EYEWEAR"
+        },
+        {
+          "CustomerAcceptanceStatus": "approved",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 54,
+          "SellerName": "FEMI HEARTS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 53,
+          "SellerName": "COMPRE ÓCULOS"
+        },
+        {
+          "CustomerAcceptanceStatus": "approved",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 52,
+          "SellerName": "DUSTER CONCEPT"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 51,
+          "SellerName": "LUXOTTICA"
+        },
+        {
+          "CustomerAcceptanceStatus": "approved",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 17,
+          "SellerName": "HB"
+        },
+        {
+          "CustomerAcceptanceStatus": "approved",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 15,
+          "SellerName": "MARCHON"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 14,
+          "SellerName": "SAFILO"
+        },
+        {
+          "CustomerAcceptanceStatus": "approved",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 11,
+          "SellerName": "LENÇO MÁGICO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 10,
+          "SellerName": "Marketplace"
+        }
+      ]
+    },
+    {
+      "CustomerID": 93,
+      "CustomerName": "Josimar Bento Silva",
+      "ModerationStatus": [
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 10,
+          "SellerName": "Marketplace"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 11,
+          "SellerName": "LENÇO MÁGICO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 14,
+          "SellerName": "SAFILO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 15,
+          "SellerName": "MARCHON"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 17,
+          "SellerName": "HB"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 51,
+          "SellerName": "LUXOTTICA"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 52,
+          "SellerName": "DUSTER CONCEPT"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 53,
+          "SellerName": "COMPRE ÓCULOS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 54,
+          "SellerName": "FEMI HEARTS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 55,
+          "SellerName": "DETROIT EYEWEAR"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 56,
+          "SellerName": "BELARO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 57,
+          "SellerName": "JADSOL"
+        }
+      ]
+    },
+    {
+      "CustomerID": 94,
+      "CustomerName": "LENCO MAGICO",
+      "ModerationStatus": [
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 57,
+          "SellerName": "JADSOL"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 56,
+          "SellerName": "BELARO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 55,
+          "SellerName": "DETROIT EYEWEAR"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 54,
+          "SellerName": "FEMI HEARTS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 53,
+          "SellerName": "COMPRE ÓCULOS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 52,
+          "SellerName": "DUSTER CONCEPT"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 51,
+          "SellerName": "LUXOTTICA"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 17,
+          "SellerName": "HB"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 15,
+          "SellerName": "MARCHON"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 14,
+          "SellerName": "SAFILO"
+        },
+        {
+          "CustomerAcceptanceStatus": "approved",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 11,
+          "SellerName": "LENÇO MÁGICO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 10,
+          "SellerName": "Marketplace"
+        }
+      ]
+    },
+    {
+      "CustomerID": 95,
+      "CustomerName": "Aryane Kato Seller Detroit",
+      "ModerationStatus": [
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 10,
+          "SellerName": "Marketplace"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 11,
+          "SellerName": "LENÇO MÁGICO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 14,
+          "SellerName": "SAFILO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 15,
+          "SellerName": "MARCHON"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 17,
+          "SellerName": "HB"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 51,
+          "SellerName": "LUXOTTICA"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 52,
+          "SellerName": "DUSTER CONCEPT"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 53,
+          "SellerName": "COMPRE ÓCULOS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 54,
+          "SellerName": "FEMI HEARTS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 55,
+          "SellerName": "DETROIT EYEWEAR"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 56,
+          "SellerName": "BELARO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 57,
+          "SellerName": "JADSOL"
+        }
+      ]
+    },
+    {
+      "CustomerID": 96,
+      "CustomerName": "ÓTICAS VISTA",
+      "ModerationStatus": [
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 57,
+          "SellerName": "JADSOL"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 56,
+          "SellerName": "BELARO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 55,
+          "SellerName": "DETROIT EYEWEAR"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 54,
+          "SellerName": "FEMI HEARTS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 53,
+          "SellerName": "COMPRE ÓCULOS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 52,
+          "SellerName": "DUSTER CONCEPT"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 51,
+          "SellerName": "LUXOTTICA"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 17,
+          "SellerName": "HB"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 15,
+          "SellerName": "MARCHON"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 14,
+          "SellerName": "SAFILO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 11,
+          "SellerName": "LENÇO MÁGICO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 10,
+          "SellerName": "Marketplace"
+        }
+      ]
+    },
+    {
+      "CustomerID": 98,
+      "CustomerName": "Raphael Thomaz Da Luz",
+      "ModerationStatus": [
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 10,
+          "SellerName": "Marketplace"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 11,
+          "SellerName": "LENÇO MÁGICO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 14,
+          "SellerName": "SAFILO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 15,
+          "SellerName": "MARCHON"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 17,
+          "SellerName": "HB"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 51,
+          "SellerName": "LUXOTTICA"
+        },
+        {
+          "CustomerAcceptanceStatus": "approved",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 52,
+          "SellerName": "DUSTER CONCEPT"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 53,
+          "SellerName": "COMPRE ÓCULOS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 54,
+          "SellerName": "FEMI HEARTS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 55,
+          "SellerName": "DETROIT EYEWEAR"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 56,
+          "SellerName": "BELARO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 57,
+          "SellerName": "JADSOL"
+        }
+      ]
+    },
+    {
+      "CustomerID": 99,
+      "CustomerName": "Marcelo Polesso",
+      "ModerationStatus": [
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 57,
+          "SellerName": "JADSOL"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 56,
+          "SellerName": "BELARO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 55,
+          "SellerName": "DETROIT EYEWEAR"
+        },
+        {
+          "CustomerAcceptanceStatus": "approved",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 54,
+          "SellerName": "FEMI HEARTS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 53,
+          "SellerName": "COMPRE ÓCULOS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 52,
+          "SellerName": "DUSTER CONCEPT"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 51,
+          "SellerName": "LUXOTTICA"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 17,
+          "SellerName": "HB"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 15,
+          "SellerName": "MARCHON"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 14,
+          "SellerName": "SAFILO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 11,
+          "SellerName": "LENÇO MÁGICO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 10,
+          "SellerName": "Marketplace"
+        }
+      ]
+    },
+    {
+      "CustomerID": 100,
+      "CustomerName": "Daniela Mie",
+      "ModerationStatus": [
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 10,
+          "SellerName": "Marketplace"
+        },
+        {
+          "CustomerAcceptanceStatus": "approved",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 11,
+          "SellerName": "LENÇO MÁGICO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 14,
+          "SellerName": "SAFILO"
+        },
+        {
+          "CustomerAcceptanceStatus": "approved",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 15,
+          "SellerName": "MARCHON"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 17,
+          "SellerName": "HB"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 51,
+          "SellerName": "LUXOTTICA"
+        },
+        {
+          "CustomerAcceptanceStatus": "approved",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 52,
+          "SellerName": "DUSTER CONCEPT"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 53,
+          "SellerName": "COMPRE ÓCULOS"
+        },
+        {
+          "CustomerAcceptanceStatus": "approved",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 54,
+          "SellerName": "FEMI HEARTS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 55,
+          "SellerName": "DETROIT EYEWEAR"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 56,
+          "SellerName": "BELARO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 57,
+          "SellerName": "JADSOL"
+        }
+      ]
+    },
+    {
+      "CustomerID": 101,
+      "CustomerName": "belaro",
+      "ModerationStatus": [
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 57,
+          "SellerName": "JADSOL"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 56,
+          "SellerName": "BELARO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 55,
+          "SellerName": "DETROIT EYEWEAR"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 54,
+          "SellerName": "FEMI HEARTS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 53,
+          "SellerName": "COMPRE ÓCULOS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 52,
+          "SellerName": "DUSTER CONCEPT"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 51,
+          "SellerName": "LUXOTTICA"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 17,
+          "SellerName": "HB"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 15,
+          "SellerName": "MARCHON"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 14,
+          "SellerName": "SAFILO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 11,
+          "SellerName": "LENÇO MÁGICO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 10,
+          "SellerName": "Marketplace"
+        }
+      ]
+    },
+    {
+      "CustomerID": 102,
+      "CustomerName": "Marcelo Cirineu Pereira Silva",
+      "ModerationStatus": [
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 10,
+          "SellerName": "Marketplace"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 11,
+          "SellerName": "LENÇO MÁGICO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 14,
+          "SellerName": "SAFILO"
+        },
+        {
+          "CustomerAcceptanceStatus": "approved",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 15,
+          "SellerName": "MARCHON"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 17,
+          "SellerName": "HB"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 51,
+          "SellerName": "LUXOTTICA"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 52,
+          "SellerName": "DUSTER CONCEPT"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 53,
+          "SellerName": "COMPRE ÓCULOS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 54,
+          "SellerName": "FEMI HEARTS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 55,
+          "SellerName": "DETROIT EYEWEAR"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 56,
+          "SellerName": "BELARO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 57,
+          "SellerName": "JADSOL"
+        }
+      ]
+    },
+    {
+      "CustomerID": 104,
+      "CustomerName": "Priscila Vieira",
+      "ModerationStatus": [
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 57,
+          "SellerName": "JADSOL"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 56,
+          "SellerName": "BELARO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 55,
+          "SellerName": "DETROIT EYEWEAR"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 54,
+          "SellerName": "FEMI HEARTS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 53,
+          "SellerName": "COMPRE ÓCULOS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 52,
+          "SellerName": "DUSTER CONCEPT"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 51,
+          "SellerName": "LUXOTTICA"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 17,
+          "SellerName": "HB"
+        },
+        {
+          "CustomerAcceptanceStatus": "approved",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 15,
+          "SellerName": "MARCHON"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 14,
+          "SellerName": "SAFILO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 11,
+          "SellerName": "LENÇO MÁGICO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 10,
+          "SellerName": "Marketplace"
+        }
+      ]
+    },
+    {
+      "CustomerID": 105,
+      "CustomerName": "Bruno Vinicius Siqueira",
+      "ModerationStatus": [
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 10,
+          "SellerName": "Marketplace"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 11,
+          "SellerName": "LENÇO MÁGICO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 14,
+          "SellerName": "SAFILO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 15,
+          "SellerName": "MARCHON"
+        },
+        {
+          "CustomerAcceptanceStatus": "approved",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 17,
+          "SellerName": "HB"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 51,
+          "SellerName": "LUXOTTICA"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 52,
+          "SellerName": "DUSTER CONCEPT"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 53,
+          "SellerName": "COMPRE ÓCULOS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 54,
+          "SellerName": "FEMI HEARTS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 55,
+          "SellerName": "DETROIT EYEWEAR"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 56,
+          "SellerName": "BELARO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 57,
+          "SellerName": "JADSOL"
+        }
+      ]
+    },
+    {
+      "CustomerID": 106,
+      "CustomerName": "FABRICA DE OCULOS SR",
+      "ModerationStatus": [
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 57,
+          "SellerName": "JADSOL"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 56,
+          "SellerName": "BELARO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 55,
+          "SellerName": "DETROIT EYEWEAR"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 54,
+          "SellerName": "FEMI HEARTS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 53,
+          "SellerName": "COMPRE ÓCULOS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 52,
+          "SellerName": "DUSTER CONCEPT"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 51,
+          "SellerName": "LUXOTTICA"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 17,
+          "SellerName": "HB"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 15,
+          "SellerName": "MARCHON"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 14,
+          "SellerName": "SAFILO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 11,
+          "SellerName": "LENÇO MÁGICO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 10,
+          "SellerName": "Marketplace"
+        }
+      ]
+    },
+    {
+      "CustomerID": 107,
+      "CustomerName": "Vinicius Oliveira",
+      "ModerationStatus": [
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 10,
+          "SellerName": "Marketplace"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 11,
+          "SellerName": "LENÇO MÁGICO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 14,
+          "SellerName": "SAFILO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 15,
+          "SellerName": "MARCHON"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 17,
+          "SellerName": "HB"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 51,
+          "SellerName": "LUXOTTICA"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 52,
+          "SellerName": "DUSTER CONCEPT"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 53,
+          "SellerName": "COMPRE ÓCULOS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 54,
+          "SellerName": "FEMI HEARTS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 55,
+          "SellerName": "DETROIT EYEWEAR"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 56,
+          "SellerName": "BELARO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 57,
+          "SellerName": "JADSOL"
+        }
+      ]
+    },
+    {
+      "CustomerID": 108,
+      "CustomerName": "MARCELO GAROFALO",
+      "ModerationStatus": [
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 57,
+          "SellerName": "JADSOL"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 56,
+          "SellerName": "BELARO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 55,
+          "SellerName": "DETROIT EYEWEAR"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 54,
+          "SellerName": "FEMI HEARTS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 53,
+          "SellerName": "COMPRE ÓCULOS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 52,
+          "SellerName": "DUSTER CONCEPT"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 51,
+          "SellerName": "LUXOTTICA"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 17,
+          "SellerName": "HB"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 15,
+          "SellerName": "MARCHON"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 14,
+          "SellerName": "SAFILO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 11,
+          "SellerName": "LENÇO MÁGICO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 10,
+          "SellerName": "Marketplace"
+        }
+      ]
+    },
+    {
+      "CustomerID": 109,
+      "CustomerName": "SR FABRICA DE OCULOS",
+      "ModerationStatus": [
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 10,
+          "SellerName": "Marketplace"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 11,
+          "SellerName": "LENÇO MÁGICO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 14,
+          "SellerName": "SAFILO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 15,
+          "SellerName": "MARCHON"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 17,
+          "SellerName": "HB"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 51,
+          "SellerName": "LUXOTTICA"
+        },
+        {
+          "CustomerAcceptanceStatus": "approved",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 52,
+          "SellerName": "DUSTER CONCEPT"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 53,
+          "SellerName": "COMPRE ÓCULOS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 54,
+          "SellerName": "FEMI HEARTS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 55,
+          "SellerName": "DETROIT EYEWEAR"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 56,
+          "SellerName": "BELARO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 57,
+          "SellerName": "JADSOL"
+        }
+      ]
+    },
+    {
+      "CustomerID": 110,
+      "CustomerName": "SR FABRICA DE OCULOS",
+      "ModerationStatus": [
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 57,
+          "SellerName": "JADSOL"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 56,
+          "SellerName": "BELARO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 55,
+          "SellerName": "DETROIT EYEWEAR"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 54,
+          "SellerName": "FEMI HEARTS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 53,
+          "SellerName": "COMPRE ÓCULOS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 52,
+          "SellerName": "DUSTER CONCEPT"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 51,
+          "SellerName": "LUXOTTICA"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 17,
+          "SellerName": "HB"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 15,
+          "SellerName": "MARCHON"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 14,
+          "SellerName": "SAFILO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 11,
+          "SellerName": "LENÇO MÁGICO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 10,
+          "SellerName": "Marketplace"
+        }
+      ]
+    },
+    {
+      "CustomerID": 111,
+      "CustomerName": "SR FABRICA DE OCULOS",
+      "ModerationStatus": [
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 10,
+          "SellerName": "Marketplace"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 11,
+          "SellerName": "LENÇO MÁGICO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 14,
+          "SellerName": "SAFILO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 15,
+          "SellerName": "MARCHON"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 17,
+          "SellerName": "HB"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 51,
+          "SellerName": "LUXOTTICA"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 52,
+          "SellerName": "DUSTER CONCEPT"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 53,
+          "SellerName": "COMPRE ÓCULOS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 54,
+          "SellerName": "FEMI HEARTS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 55,
+          "SellerName": "DETROIT EYEWEAR"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 56,
+          "SellerName": "BELARO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 57,
+          "SellerName": "JADSOL"
+        }
+      ]
+    },
+    {
+      "CustomerID": 112,
+      "CustomerName": "BCA OTICA EIRELLI",
+      "ModerationStatus": [
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 57,
+          "SellerName": "JADSOL"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 56,
+          "SellerName": "BELARO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 55,
+          "SellerName": "DETROIT EYEWEAR"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 54,
+          "SellerName": "FEMI HEARTS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 53,
+          "SellerName": "COMPRE ÓCULOS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 52,
+          "SellerName": "DUSTER CONCEPT"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 51,
+          "SellerName": "LUXOTTICA"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 17,
+          "SellerName": "HB"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 15,
+          "SellerName": "MARCHON"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 14,
+          "SellerName": "SAFILO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 11,
+          "SellerName": "LENÇO MÁGICO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 10,
+          "SellerName": "Marketplace"
+        }
+      ]
+    },
+    {
+      "CustomerID": 113,
+      "CustomerName": "SR FABRICA DE OCULOS",
+      "ModerationStatus": [
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 10,
+          "SellerName": "Marketplace"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 11,
+          "SellerName": "LENÇO MÁGICO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 14,
+          "SellerName": "SAFILO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 15,
+          "SellerName": "MARCHON"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 17,
+          "SellerName": "HB"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 51,
+          "SellerName": "LUXOTTICA"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 52,
+          "SellerName": "DUSTER CONCEPT"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 53,
+          "SellerName": "COMPRE ÓCULOS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 54,
+          "SellerName": "FEMI HEARTS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 55,
+          "SellerName": "DETROIT EYEWEAR"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 56,
+          "SellerName": "BELARO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 57,
+          "SellerName": "JADSOL"
+        }
+      ]
+    },
+    {
+      "CustomerID": 114,
+      "CustomerName": "Eliane",
+      "ModerationStatus": [
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 57,
+          "SellerName": "JADSOL"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 56,
+          "SellerName": "BELARO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 55,
+          "SellerName": "DETROIT EYEWEAR"
+        },
+        {
+          "CustomerAcceptanceStatus": "approved",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 54,
+          "SellerName": "FEMI HEARTS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 53,
+          "SellerName": "COMPRE ÓCULOS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 52,
+          "SellerName": "DUSTER CONCEPT"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 51,
+          "SellerName": "LUXOTTICA"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 17,
+          "SellerName": "HB"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 15,
+          "SellerName": "MARCHON"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 14,
+          "SellerName": "SAFILO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 11,
+          "SellerName": "LENÇO MÁGICO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 10,
+          "SellerName": "Marketplace"
+        }
+      ]
+    },
+    {
+      "CustomerID": 115,
+      "CustomerName": "SR FABRICA DE OCULOS",
+      "ModerationStatus": [
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 10,
+          "SellerName": "Marketplace"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 11,
+          "SellerName": "LENÇO MÁGICO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 14,
+          "SellerName": "SAFILO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 15,
+          "SellerName": "MARCHON"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 17,
+          "SellerName": "HB"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 51,
+          "SellerName": "LUXOTTICA"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 52,
+          "SellerName": "DUSTER CONCEPT"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 53,
+          "SellerName": "COMPRE ÓCULOS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 54,
+          "SellerName": "FEMI HEARTS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 55,
+          "SellerName": "DETROIT EYEWEAR"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 56,
+          "SellerName": "BELARO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 57,
+          "SellerName": "JADSOL"
+        }
+      ]
+    },
+    {
+      "CustomerID": 116,
+      "CustomerName": "SR FABRICA DE OCULOS",
+      "ModerationStatus": [
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 57,
+          "SellerName": "JADSOL"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 56,
+          "SellerName": "BELARO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 55,
+          "SellerName": "DETROIT EYEWEAR"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 54,
+          "SellerName": "FEMI HEARTS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 53,
+          "SellerName": "COMPRE ÓCULOS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 52,
+          "SellerName": "DUSTER CONCEPT"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 51,
+          "SellerName": "LUXOTTICA"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 17,
+          "SellerName": "HB"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 15,
+          "SellerName": "MARCHON"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 14,
+          "SellerName": "SAFILO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 11,
+          "SellerName": "LENÇO MÁGICO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 10,
+          "SellerName": "Marketplace"
+        }
+      ]
+    },
+    {
+      "CustomerID": 117,
+      "CustomerName": "SR FABRICA DE OCULOS",
+      "ModerationStatus": [
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 10,
+          "SellerName": "Marketplace"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 11,
+          "SellerName": "LENÇO MÁGICO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 14,
+          "SellerName": "SAFILO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 15,
+          "SellerName": "MARCHON"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 17,
+          "SellerName": "HB"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 51,
+          "SellerName": "LUXOTTICA"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 52,
+          "SellerName": "DUSTER CONCEPT"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 53,
+          "SellerName": "COMPRE ÓCULOS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 54,
+          "SellerName": "FEMI HEARTS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 55,
+          "SellerName": "DETROIT EYEWEAR"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 56,
+          "SellerName": "BELARO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 57,
+          "SellerName": "JADSOL"
+        }
+      ]
+    },
+    {
+      "CustomerID": 118,
+      "CustomerName": "LUCAS CANOVAS",
+      "ModerationStatus": [
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 57,
+          "SellerName": "JADSOL"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 56,
+          "SellerName": "BELARO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 55,
+          "SellerName": "DETROIT EYEWEAR"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 54,
+          "SellerName": "FEMI HEARTS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 53,
+          "SellerName": "COMPRE ÓCULOS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 52,
+          "SellerName": "DUSTER CONCEPT"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 51,
+          "SellerName": "LUXOTTICA"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 17,
+          "SellerName": "HB"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 15,
+          "SellerName": "MARCHON"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 14,
+          "SellerName": "SAFILO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 11,
+          "SellerName": "LENÇO MÁGICO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 10,
+          "SellerName": "Marketplace"
+        }
+      ]
+    },
+    {
+      "CustomerID": 119,
+      "CustomerName": "Vanderlei Freitas",
+      "ModerationStatus": [
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 10,
+          "SellerName": "Marketplace"
+        },
+        {
+          "CustomerAcceptanceStatus": "approved",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 11,
+          "SellerName": "LENÇO MÁGICO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 14,
+          "SellerName": "SAFILO"
+        },
+        {
+          "CustomerAcceptanceStatus": "approved",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 15,
+          "SellerName": "MARCHON"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 17,
+          "SellerName": "HB"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 51,
+          "SellerName": "LUXOTTICA"
+        },
+        {
+          "CustomerAcceptanceStatus": "approved",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 52,
+          "SellerName": "DUSTER CONCEPT"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 53,
+          "SellerName": "COMPRE ÓCULOS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 54,
+          "SellerName": "FEMI HEARTS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 55,
+          "SellerName": "DETROIT EYEWEAR"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 56,
+          "SellerName": "BELARO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 57,
+          "SellerName": "JADSOL"
+        }
+      ]
+    },
+    {
+      "CustomerID": 120,
+      "CustomerName": "BELLIOTICA",
+      "ModerationStatus": [
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 57,
+          "SellerName": "JADSOL"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 56,
+          "SellerName": "BELARO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 55,
+          "SellerName": "DETROIT EYEWEAR"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 54,
+          "SellerName": "FEMI HEARTS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 53,
+          "SellerName": "COMPRE ÓCULOS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 52,
+          "SellerName": "DUSTER CONCEPT"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 51,
+          "SellerName": "LUXOTTICA"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 17,
+          "SellerName": "HB"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "reproved",
+          "SellerID": 15,
+          "SellerName": "MARCHON"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 14,
+          "SellerName": "SAFILO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 11,
+          "SellerName": "LENÇO MÁGICO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 10,
+          "SellerName": "Marketplace"
+        }
+      ]
+    },
+    {
+      "CustomerID": 121,
+      "CustomerName": "Itelson",
+      "ModerationStatus": [
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 10,
+          "SellerName": "Marketplace"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 11,
+          "SellerName": "LENÇO MÁGICO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 14,
+          "SellerName": "SAFILO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 15,
+          "SellerName": "MARCHON"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 17,
+          "SellerName": "HB"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 51,
+          "SellerName": "LUXOTTICA"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 52,
+          "SellerName": "DUSTER CONCEPT"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 53,
+          "SellerName": "COMPRE ÓCULOS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 54,
+          "SellerName": "FEMI HEARTS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 55,
+          "SellerName": "DETROIT EYEWEAR"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 56,
+          "SellerName": "BELARO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 57,
+          "SellerName": "JADSOL"
+        }
+      ]
+    },
+    {
+      "CustomerID": 122,
+      "CustomerName": "Santiago Zanon",
+      "ModerationStatus": [
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 57,
+          "SellerName": "JADSOL"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 56,
+          "SellerName": "BELARO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 55,
+          "SellerName": "DETROIT EYEWEAR"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 54,
+          "SellerName": "FEMI HEARTS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 53,
+          "SellerName": "COMPRE ÓCULOS"
+        },
+        {
+          "CustomerAcceptanceStatus": "approved",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 52,
+          "SellerName": "DUSTER CONCEPT"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 51,
+          "SellerName": "LUXOTTICA"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 17,
+          "SellerName": "HB"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 15,
+          "SellerName": "MARCHON"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 14,
+          "SellerName": "SAFILO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 11,
+          "SellerName": "LENÇO MÁGICO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 10,
+          "SellerName": "Marketplace"
+        }
+      ]
+    },
+    {
+      "CustomerID": 123,
+      "CustomerName": "Guilherme",
+      "ModerationStatus": [
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 10,
+          "SellerName": "Marketplace"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 11,
+          "SellerName": "LENÇO MÁGICO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 14,
+          "SellerName": "SAFILO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 15,
+          "SellerName": "MARCHON"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 17,
+          "SellerName": "HB"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 51,
+          "SellerName": "LUXOTTICA"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 52,
+          "SellerName": "DUSTER CONCEPT"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 53,
+          "SellerName": "COMPRE ÓCULOS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 54,
+          "SellerName": "FEMI HEARTS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 55,
+          "SellerName": "DETROIT EYEWEAR"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 56,
+          "SellerName": "BELARO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 57,
+          "SellerName": "JADSOL"
+        }
+      ]
+    }
+  ]
+}
