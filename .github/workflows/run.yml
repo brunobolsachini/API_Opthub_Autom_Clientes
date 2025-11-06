@@ -9,7 +9,7 @@ jobs:
   run-opthub-automation:
     runs-on: ubuntu-latest
     permissions:
-      contents: read
+      contents: write
 
     env:
       OPTHUB_USER: "bruno.opthub"
