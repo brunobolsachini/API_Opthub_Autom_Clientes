@@ -1,25 +1,25 @@
 Clientes com Seller aprovado e Termo de Aceite pendente:
-Atualizado em 06/11/2025 17:34
-------------------------------------------------------------
-ID: 64 | Nome: Buyer Marchon | Email: buyer.marchon@gmail.com
-ID: 68 | Nome: Buyer Opthub | Email: buyer.hb.opthub@gmail.com
-ID: 79 | Nome: Cristiano Linx | Email: cristiano.dossantos.linx@gmail.com
-ID: 93 | Nome: Josimar Bento Silva | Email: contatonossaotica.info@gmail.com
-ID: 95 | Nome: Aryane Kato Seller Detroit | Email: aryaryanee@gmail.com
-ID: 96 | Nome: ÓTICAS VISTA | Email: oticas_vista@hotmail.com
-ID: 106 | Nome: FABRICA DE OCULOS SR | Email: juliano@oticasr.com.br
-ID: 108 | Nome: MARCELO GAROFALO | Email: loja06@oticasr.com.br
-ID: 109 | Nome: SR FABRICA DE OCULOS | Email: loja03@oticasr.com.br
-ID: 110 | Nome: SR FABRICA DE OCULOS | Email: loja26@oticasr.com.br
-ID: 111 | Nome: SR FABRICA DE OCULOS | Email: loja37@oticasr.com.br
-ID: 112 | Nome: BCA OTICA EIRELLI | Email: loja47@oticasr.com.br
-ID: 113 | Nome: SR FABRICA DE OCULOS | Email: loja39@oticasr.com.br
-ID: 114 | Nome: Eliane | Email: massumi.ueda@gmail.com
-ID: 115 | Nome: SR FABRICA DE OCULOS | Email: loja33@oticasr.com.br
-ID: 116 | Nome: SR FABRICA DE OCULOS | Email: loja48@oticasr.com.br
-ID: 117 | Nome: SR FABRICA DE OCULOS | Email: loja46@oticasr.com.br
-ID: 118 | Nome: LUCAS CANOVAS | Email: lucascanovas@gmail.com
-ID: 120 | Nome: BELLIOTICA | Email: elaine@belliotica.com.br
-ID: 121 | Nome: Itelson | Email: itelsonrep@gmail.com
-ID: 122 | Nome: Santiago Zanon | Email: comercial@grifedosol.com.br
-ID: 123 | Nome: Guilherme | Email: fabiane1simoes@hotmail.com
+Atualizado em 06/11/2025 17:42
+--------------------------------------------------------------------------------
+ID: 64 | Nome: Buyer Marchon | Email: buyer.marchon@gmail.com | Tel: Não informado | Cel: Não informado
+ID: 68 | Nome: Buyer Opthub | Email: buyer.hb.opthub@gmail.com | Tel: Não informado | Cel: Não informado
+ID: 79 | Nome: Cristiano Linx | Email: cristiano.dossantos.linx@gmail.com | Tel: Não informado | Cel: Não informado
+ID: 93 | Nome: Josimar Bento Silva | Email: contatonossaotica.info@gmail.com | Tel: Não informado | Cel: Não informado
+ID: 95 | Nome: Aryane Kato Seller Detroit | Email: aryaryanee@gmail.com | Tel: Não informado | Cel: Não informado
+ID: 96 | Nome: ÓTICAS VISTA | Email: oticas_vista@hotmail.com | Tel: Não informado | Cel: Não informado
+ID: 106 | Nome: FABRICA DE OCULOS SR | Email: juliano@oticasr.com.br | Tel: Não informado | Cel: Não informado
+ID: 108 | Nome: MARCELO GAROFALO | Email: loja06@oticasr.com.br | Tel: Não informado | Cel: Não informado
+ID: 109 | Nome: SR FABRICA DE OCULOS | Email: loja03@oticasr.com.br | Tel: Não informado | Cel: Não informado
+ID: 110 | Nome: SR FABRICA DE OCULOS | Email: loja26@oticasr.com.br | Tel: Não informado | Cel: Não informado
+ID: 111 | Nome: SR FABRICA DE OCULOS | Email: loja37@oticasr.com.br | Tel: Não informado | Cel: Não informado
+ID: 112 | Nome: BCA OTICA EIRELLI | Email: loja47@oticasr.com.br | Tel: Não informado | Cel: Não informado
+ID: 113 | Nome: SR FABRICA DE OCULOS | Email: loja39@oticasr.com.br | Tel: Não informado | Cel: Não informado
+ID: 114 | Nome: Eliane | Email: massumi.ueda@gmail.com | Tel: Não informado | Cel: Não informado
+ID: 115 | Nome: SR FABRICA DE OCULOS | Email: loja33@oticasr.com.br | Tel: Não informado | Cel: Não informado
+ID: 116 | Nome: SR FABRICA DE OCULOS | Email: loja48@oticasr.com.br | Tel: Não informado | Cel: Não informado
+ID: 117 | Nome: SR FABRICA DE OCULOS | Email: loja46@oticasr.com.br | Tel: Não informado | Cel: Não informado
+ID: 118 | Nome: LUCAS CANOVAS | Email: lucascanovas@gmail.com | Tel: Não informado | Cel: Não informado
+ID: 120 | Nome: BELLIOTICA | Email: elaine@belliotica.com.br | Tel: Não informado | Cel: Não informado
+ID: 121 | Nome: Itelson | Email: itelsonrep@gmail.com | Tel: Não informado | Cel: Não informado
+ID: 122 | Nome: Santiago Zanon | Email: comercial@grifedosol.com.br | Tel: Não informado | Cel: Não informado
+ID: 123 | Nome: Guilherme | Email: fabiane1simoes@hotmail.com | Tel: Não informado | Cel: Não informado
