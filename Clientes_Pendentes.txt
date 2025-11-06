@@ -1,9 +1,8 @@
 Clientes com Seller aprovado e Termo de Aceite pendente:
-Atualizado em 06/11/2025 15:26
+Atualizado em 06/11/2025 15:30
 ------------------------------------------------------------
 ID: 64 | Nome: Buyer Marchon | Email: buyer.marchon@gmail.com
 ID: 68 | Nome: Buyer Opthub | Email: buyer.hb.opthub@gmail.com
-ID: 69 | Nome: Stéphanie | Email: stephaniesantos_94@hotmail.com
 ID: 79 | Nome: Cristiano Linx | Email: cristiano.dossantos.linx@gmail.com
 ID: 93 | Nome: Josimar Bento Silva | Email: contatonossaotica.info@gmail.com
 ID: 95 | Nome: Aryane Kato Seller Detroit | Email: aryaryanee@gmail.com
