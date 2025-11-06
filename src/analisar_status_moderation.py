@@ -17,23 +17,43 @@ RECIPIENTS = os.getenv("RECIPIENTS", "bruno@compreoculos.com.br,brunoera@gmail.c
 STATUS_FILE = "StatusModeration.json"
 TXT_FILE = "Clientes_Pendentes.txt"
 XLSX_FILE = "Clientes_Pendentes.xlsx"
+LOG_FILE = "log_getcustomer.txt"
 GETCUSTOMER_URL = "https://opthub.layer.core.dcg.com.br/v1/Profile/API.svc/web/GetCustomer"
 
-def fetch_customer_email(customer_id):
-    """Consulta o e-mail do cliente no GetCustomer."""
+
+def fetch_customer_email(customer_id, log_lines):
+    """Consulta o e-mail do cliente e registra o retorno no log."""
     headers = {"Content-Type": "application/json", "Accept": "application/json"}
     body = {"CustomerID": customer_id}
-    try:
-        resp = requests.post(GETCUSTOMER_URL, headers=headers, json=body, auth=(OPTHUB_USER, OPTHUB_PASS), timeout=30)
-        resp.raise_for_status()
-        data = resp.json()
-        return data.get("Email")  # campo direto no JSON
-    except Exception as e:
-        print(f"⚠️ Erro ao buscar e-mail do CustomerID {customer_id}: {e}")
-        return None
+    email = None
 
-def send_email_with_attachment(subject, body_text, attachment_path):
-    """Envia o e-mail com texto + anexo Excel."""
+    try:
+        resp = requests.post(GETCUSTOMER_URL, headers=headers, json=body,
+                             auth=(OPTHUB_USER, OPTHUB_PASS), timeout=30)
+        status = resp.status_code
+        text = resp.text[:500]  # limita o tamanho do log por cliente
+        log_lines.append(f"\n🟢 CONSULTA CUSTOMER {customer_id}")
+        log_lines.append(f"Status HTTP: {status}")
+        log_lines.append(f"Body enviado: {json.dumps(body)}")
+        log_lines.append(f"Resposta (primeiros 500 chars): {text}\n")
+
+        try:
+            data = resp.json()
+            email = data.get("Email")
+        except Exception as e:
+            log_lines.append(f"❌ Erro ao decodificar JSON: {e}")
+
+    except Exception as e:
+        log_lines.append(f"❌ Erro ao consultar CustomerID {customer_id}: {e}")
+
+    if not email:
+        log_lines.append(f"⚠️ E-mail não encontrado para CustomerID {customer_id}\n")
+
+    return email
+
+
+def send_email_with_attachments(subject, body_text, attachments):
+    """Envia o e-mail com texto e anexos (xlsx + log)."""
     recipients = [r.strip() for r in RECIPIENTS.split(",") if r.strip()]
     msg = EmailMessage()
     msg["From"] = GMAIL_USER
@@ -41,18 +61,24 @@ def send_email_with_attachment(subject, body_text, attachment_path):
     msg["Subject"] = subject
     msg.set_content(body_text)
 
-    with open(attachment_path, "rb") as f:
-        msg.add_attachment(
-            f.read(),
-            maintype="application",
-            subtype="vnd.openxmlformats-officedocument.spreadsheetml.sheet",
-            filename=os.path.basename(attachment_path),
-        )
+    for file_path in attachments:
+        if os.path.exists(file_path):
+            with open(file_path, "rb") as f:
+                maintype, subtype = ("application", "octet-stream")
+                if file_path.endswith(".xlsx"):
+                    subtype = "vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+                msg.add_attachment(
+                    f.read(),
+                    maintype=maintype,
+                    subtype=subtype,
+                    filename=os.path.basename(file_path),
+                )
 
     context = ssl.create_default_context()
     with smtplib.SMTP_SSL("smtp.gmail.com", 465, context=context) as server:
         server.login(GMAIL_USER, GMAIL_PASS)
         server.send_message(msg)
+
 
 def main():
     if not os.path.exists(STATUS_FILE):
@@ -63,6 +89,9 @@ def main():
         data = json.load(f)
 
     pendentes = []
+    log_lines = []
+    log_lines.append(f"==== LOG DE EXECUÇÃO {datetime.now().strftime('%d/%m/%Y %H:%M:%S')} ====\n")
+
     for customer in data.get("Result", []):
         customer_id = customer.get("CustomerID")
         customer_name = customer.get("CustomerName")
@@ -72,7 +101,7 @@ def main():
                 break
 
     for c in pendentes:
-        c["Email"] = fetch_customer_email(c["CustomerID"]) or "Não encontrado"
+        c["Email"] = fetch_customer_email(c["CustomerID"], log_lines) or "Não encontrado"
 
     # Salvar TXT e XLSX
     linhas = [
@@ -88,14 +117,18 @@ def main():
 
     with open(TXT_FILE, "w", encoding="utf-8") as f:
         f.write("".join(linhas))
-
     pd.DataFrame(pendentes).to_excel(XLSX_FILE, index=False)
 
-    # Enviar e-mail com anexo Excel
-    subject = "[Opthub] Clientes com Termo de Aceite Pendente"
-    send_email_with_attachment(subject, "".join(linhas), XLSX_FILE)
+    # Salvar log
+    with open(LOG_FILE, "w", encoding="utf-8") as lf:
+        lf.write("\n".join(log_lines))
 
-    print(f"✅ E-mail enviado e arquivos salvos: {TXT_FILE}, {XLSX_FILE}")
+    # Enviar e-mail com os anexos
+    subject = "[Opthub] Clientes com Termo de Aceite Pendente"
+    send_email_with_attachments(subject, "".join(linhas), [XLSX_FILE, LOG_FILE])
+
+    print(f"✅ E-mail enviado e arquivos salvos: {TXT_FILE}, {XLSX_FILE}, {LOG_FILE}")
+
 
 if __name__ == "__main__":
     main()
