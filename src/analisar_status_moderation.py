@@ -21,35 +21,41 @@ LOG_FILE = "log_getcustomer.txt"
 GETCUSTOMER_URL = "https://opthub.layer.core.dcg.com.br/v1/Profile/API.svc/web/GetCustomer"
 
 
-def fetch_customer_email(customer_id, log_lines):
-    """Consulta o e-mail do cliente e registra o retorno no log."""
+def try_getcustomer(customer_id, log_lines):
+    """Tenta diferentes formatos de body até encontrar o Email."""
     headers = {"Content-Type": "application/json", "Accept": "application/json"}
-    body = {"CustomerID": customer_id}
-    email = None
+    bodies_to_try = [
+        {"CustomerID": customer_id},             # formato 1
+        {"model": {"CustomerID": customer_id}},  # formato 2
+        customer_id,                             # formato 3 - número puro
+        str(customer_id)                         # formato 4 - string pura
+    ]
 
-    try:
-        resp = requests.post(GETCUSTOMER_URL, headers=headers, json=body,
-                             auth=(OPTHUB_USER, OPTHUB_PASS), timeout=30)
-        status = resp.status_code
-        text = resp.text[:500]  # limita o tamanho do log por cliente
-        log_lines.append(f"\n🟢 CONSULTA CUSTOMER {customer_id}")
-        log_lines.append(f"Status HTTP: {status}")
-        log_lines.append(f"Body enviado: {json.dumps(body)}")
-        log_lines.append(f"Resposta (primeiros 500 chars): {text}\n")
-
+    for body in bodies_to_try:
         try:
-            data = resp.json()
-            email = data.get("Email")
+            resp = requests.post(
+                GETCUSTOMER_URL,
+                headers=headers,
+                json=body,
+                auth=(OPTHUB_USER, OPTHUB_PASS),
+                timeout=30
+            )
+            log_lines.append(f"\n🟢 Tentando body: {json.dumps(body)}")
+            log_lines.append(f"Status: {resp.status_code}")
+            log_lines.append(f"Resposta (primeiros 400 chars): {resp.text[:400]}\n")
+
+            if resp.status_code == 200:
+                try:
+                    data = resp.json()
+                    email = data.get("Email")
+                    if email:
+                        return email
+                except Exception as e:
+                    log_lines.append(f"❌ Erro ao ler JSON: {e}")
         except Exception as e:
-            log_lines.append(f"❌ Erro ao decodificar JSON: {e}")
+            log_lines.append(f"❌ Falha ao tentar body {body}: {e}")
 
-    except Exception as e:
-        log_lines.append(f"❌ Erro ao consultar CustomerID {customer_id}: {e}")
-
-    if not email:
-        log_lines.append(f"⚠️ E-mail não encontrado para CustomerID {customer_id}\n")
-
-    return email
+    return None
 
 
 def send_email_with_attachments(subject, body_text, attachments):
@@ -89,19 +95,25 @@ def main():
         data = json.load(f)
 
     pendentes = []
-    log_lines = []
-    log_lines.append(f"==== LOG DE EXECUÇÃO {datetime.now().strftime('%d/%m/%Y %H:%M:%S')} ====\n")
+    log_lines = [f"==== LOG EXECUÇÃO {datetime.now().strftime('%d/%m/%Y %H:%M:%S')} ====\n"]
 
     for customer in data.get("Result", []):
         customer_id = customer.get("CustomerID")
         customer_name = customer.get("CustomerName")
+
         for status in customer.get("ModerationStatus", []):
-            if status.get("SellerAcceptanceStatus") == "approved" and status.get("CustomerAcceptanceStatus") == "pending":
+            if (
+                status.get("SellerAcceptanceStatus") == "approved"
+                and status.get("CustomerAcceptanceStatus") == "pending"
+            ):
                 pendentes.append({"CustomerID": customer_id, "CustomerName": customer_name})
                 break
 
     for c in pendentes:
-        c["Email"] = fetch_customer_email(c["CustomerID"], log_lines) or "Não encontrado"
+        email = try_getcustomer(c["CustomerID"], log_lines)
+        c["Email"] = email or "Não encontrado"
+        if not email:
+            log_lines.append(f"⚠️ Sem e-mail para {c['CustomerName']} (ID {c['CustomerID']})")
 
     # Salvar TXT e XLSX
     linhas = [
@@ -117,13 +129,12 @@ def main():
 
     with open(TXT_FILE, "w", encoding="utf-8") as f:
         f.write("".join(linhas))
-    pd.DataFrame(pendentes).to_excel(XLSX_FILE, index=False)
 
-    # Salvar log
+    pd.DataFrame(pendentes).to_excel(XLSX_FILE, index=False)
     with open(LOG_FILE, "w", encoding="utf-8") as lf:
         lf.write("\n".join(log_lines))
 
-    # Enviar e-mail com os anexos
+    # Enviar e-mail com anexos
     subject = "[Opthub] Clientes com Termo de Aceite Pendente"
     send_email_with_attachments(subject, "".join(linhas), [XLSX_FILE, LOG_FILE])
 
