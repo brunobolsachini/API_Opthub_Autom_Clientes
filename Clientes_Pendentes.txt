@@ -1,5 +1,5 @@
 Clientes com Seller aprovado e Termo de Aceite pendente:
-Atualizado em 06/11/2025 15:39
+Atualizado em 06/11/2025 15:42
 ------------------------------------------------------------
 ID: 64 | Nome: Buyer Marchon | Email: buyer.marchon@gmail.com
 ID: 68 | Nome: Buyer Opthub | Email: buyer.hb.opthub@gmail.com
