@@ -1,0 +1,45 @@
+name: Executar coleta e e-mail Opthub (diário 18h BRT)
+
+on:
+  schedule:
+    - cron: "0 21 * * *"   # 21:00 UTC = 18:00 BRT
+  workflow_dispatch:       # permite rodar manualmente
+
+jobs:
+  run-opthub-automation:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+
+    env:
+      OPTHUB_USER: "bruno.opthub"
+      OPTHUB_PASS: ${{ secrets.Pss_Opthub }}
+      GMAIL_USER: "bruno@compreoculos.com.br"
+      GMAIL_PASS: ${{ secrets.Pss_APP_Gmail }}
+      RECIPIENTS: "bruno@compreoculos.com.br,brunoera@gmail.com"
+      OUTPUT_DIR: "out"
+      STATUS_FILE_BASENAME: "StatusModeration"
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run script
+        run: |
+          python src/main.py
+
+      - name: Upload artifact (debug)
+        uses: actions/upload-artifact@v4
+        with:
+          name: StatusModeration-files
+          path: out/
