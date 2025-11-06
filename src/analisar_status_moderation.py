@@ -51,10 +51,11 @@ def send_email(subject, body_text):
         server.send_message(msg)
 
 
-def main():
+def gerar_relatorio_pendentes():
+    """Analisa o JSON e gera lista de clientes pendentes."""
     if not os.path.exists(STATUS_FILE):
         print(f"❌ Arquivo {STATUS_FILE} não encontrado.")
-        return
+        return []
 
     with open(STATUS_FILE, "r", encoding="utf-8") as f:
         data = json.load(f)
@@ -74,7 +75,13 @@ def main():
         email = fetch_customer_email(c["CustomerID"])
         c["Email"] = email or "Não encontrado"
 
-    # Gerar texto
+    return pendentes
+
+
+def main():
+    pendentes = gerar_relatorio_pendentes()
+
+    # Montar texto do e-mail
     linhas = []
     linhas.append("Clientes com Seller aprovado e Termo de Aceite pendente:\n")
     linhas.append(f"Atualizado em {datetime.now().strftime('%d/%m/%Y %H:%M')}\n")
@@ -88,15 +95,18 @@ def main():
 
     texto_final = "".join(linhas)
 
-    # Salvar TXT local (opcional para debug)
+    # Salvar TXT no repositório
     with open(OUT_TXT, "w", encoding="utf-8") as f:
         f.write(texto_final)
 
-    # Enviar por e-mail
+    # Enviar e-mail
     subject = "[Opthub] Clientes com Termo de Aceite Pendente"
     send_email(subject, texto_final)
 
     print(f"✅ Lista gerada e e-mail enviado com {len(pendentes)} clientes pendentes.")
+    print(f"📁 Arquivo salvo: {OUT_TXT}")
+
+    return len(pendentes)
 
 
 if __name__ == "__main__":
