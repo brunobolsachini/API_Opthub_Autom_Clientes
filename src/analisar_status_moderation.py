@@ -13,7 +13,7 @@ OPTHUB_USER = os.getenv("OPTHUB_USER", "bruno.opthub")
 OPTHUB_PASS = os.getenv("OPTHUB_PASS")
 GMAIL_USER = os.getenv("GMAIL_USER", "bruno@compreoculos.com.br")
 GMAIL_PASS = os.getenv("GMAIL_PASS")
-RECIPIENTS = os.getenv("RECIPIENTS", "bruno@compreoculos.com.br,brunoera@gmail.com")
+RECIPIENTS = os.getenv("RECIPIENTS", "bruno@compreoculos.com.br,brunoera@gmail.com, comercial@opthub.com.br")
 
 STATUS_FILE = "StatusModeration.json"
 TXT_FILE = "Clientes_Pendentes.txt"
