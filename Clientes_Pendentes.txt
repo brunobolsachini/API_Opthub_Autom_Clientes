@@ -1,0 +1,26 @@
+Clientes com Seller aprovado e Termo de Aceite pendente:
+Atualizado em 06/11/2025 14:48
+------------------------------------------------------------
+ID: 64 | Nome: Buyer Marchon | Email: Não encontrado
+ID: 68 | Nome: Buyer Opthub | Email: Não encontrado
+ID: 69 | Nome: Stéphanie | Email: Não encontrado
+ID: 79 | Nome: Cristiano Linx | Email: Não encontrado
+ID: 93 | Nome: Josimar Bento Silva | Email: Não encontrado
+ID: 95 | Nome: Aryane Kato Seller Detroit | Email: Não encontrado
+ID: 96 | Nome: ÓTICAS VISTA | Email: Não encontrado
+ID: 106 | Nome: FABRICA DE OCULOS SR | Email: Não encontrado
+ID: 108 | Nome: MARCELO GAROFALO | Email: Não encontrado
+ID: 109 | Nome: SR FABRICA DE OCULOS | Email: Não encontrado
+ID: 110 | Nome: SR FABRICA DE OCULOS | Email: Não encontrado
+ID: 111 | Nome: SR FABRICA DE OCULOS | Email: Não encontrado
+ID: 112 | Nome: BCA OTICA EIRELLI | Email: Não encontrado
+ID: 113 | Nome: SR FABRICA DE OCULOS | Email: Não encontrado
+ID: 114 | Nome: Eliane | Email: Não encontrado
+ID: 115 | Nome: SR FABRICA DE OCULOS | Email: Não encontrado
+ID: 116 | Nome: SR FABRICA DE OCULOS | Email: Não encontrado
+ID: 117 | Nome: SR FABRICA DE OCULOS | Email: Não encontrado
+ID: 118 | Nome: LUCAS CANOVAS | Email: Não encontrado
+ID: 120 | Nome: BELLIOTICA | Email: Não encontrado
+ID: 121 | Nome: Itelson | Email: Não encontrado
+ID: 122 | Nome: Santiago Zanon | Email: Não encontrado
+ID: 123 | Nome: Guilherme | Email: Não encontrado
