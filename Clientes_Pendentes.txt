@@ -1,25 +1,25 @@
 Clientes com Seller aprovado e Termo de Aceite pendente:
-Atualizado em 06/11/2025 17:42
+Atualizado em 06/11/2025 17:49
 --------------------------------------------------------------------------------
-ID: 64 | Nome: Buyer Marchon | Email: buyer.marchon@gmail.com | Tel: Não informado | Cel: Não informado
-ID: 68 | Nome: Buyer Opthub | Email: buyer.hb.opthub@gmail.com | Tel: Não informado | Cel: Não informado
-ID: 79 | Nome: Cristiano Linx | Email: cristiano.dossantos.linx@gmail.com | Tel: Não informado | Cel: Não informado
-ID: 93 | Nome: Josimar Bento Silva | Email: contatonossaotica.info@gmail.com | Tel: Não informado | Cel: Não informado
-ID: 95 | Nome: Aryane Kato Seller Detroit | Email: aryaryanee@gmail.com | Tel: Não informado | Cel: Não informado
-ID: 96 | Nome: ÓTICAS VISTA | Email: oticas_vista@hotmail.com | Tel: Não informado | Cel: Não informado
-ID: 106 | Nome: FABRICA DE OCULOS SR | Email: juliano@oticasr.com.br | Tel: Não informado | Cel: Não informado
-ID: 108 | Nome: MARCELO GAROFALO | Email: loja06@oticasr.com.br | Tel: Não informado | Cel: Não informado
-ID: 109 | Nome: SR FABRICA DE OCULOS | Email: loja03@oticasr.com.br | Tel: Não informado | Cel: Não informado
-ID: 110 | Nome: SR FABRICA DE OCULOS | Email: loja26@oticasr.com.br | Tel: Não informado | Cel: Não informado
-ID: 111 | Nome: SR FABRICA DE OCULOS | Email: loja37@oticasr.com.br | Tel: Não informado | Cel: Não informado
-ID: 112 | Nome: BCA OTICA EIRELLI | Email: loja47@oticasr.com.br | Tel: Não informado | Cel: Não informado
-ID: 113 | Nome: SR FABRICA DE OCULOS | Email: loja39@oticasr.com.br | Tel: Não informado | Cel: Não informado
-ID: 114 | Nome: Eliane | Email: massumi.ueda@gmail.com | Tel: Não informado | Cel: Não informado
-ID: 115 | Nome: SR FABRICA DE OCULOS | Email: loja33@oticasr.com.br | Tel: Não informado | Cel: Não informado
-ID: 116 | Nome: SR FABRICA DE OCULOS | Email: loja48@oticasr.com.br | Tel: Não informado | Cel: Não informado
-ID: 117 | Nome: SR FABRICA DE OCULOS | Email: loja46@oticasr.com.br | Tel: Não informado | Cel: Não informado
-ID: 118 | Nome: LUCAS CANOVAS | Email: lucascanovas@gmail.com | Tel: Não informado | Cel: Não informado
-ID: 120 | Nome: BELLIOTICA | Email: elaine@belliotica.com.br | Tel: Não informado | Cel: Não informado
-ID: 121 | Nome: Itelson | Email: itelsonrep@gmail.com | Tel: Não informado | Cel: Não informado
-ID: 122 | Nome: Santiago Zanon | Email: comercial@grifedosol.com.br | Tel: Não informado | Cel: Não informado
-ID: 123 | Nome: Guilherme | Email: fabiane1simoes@hotmail.com | Tel: Não informado | Cel: Não informado
+ID: 64 | Nome: Buyer Marchon | Email: buyer.marchon@gmail.com | Tel: Não informado | Cel: 11974306947
+ID: 68 | Nome: Buyer Opthub | Email: buyer.hb.opthub@gmail.com | Tel: Não informado | Cel: 11974306947
+ID: 79 | Nome: Cristiano Linx | Email: cristiano.dossantos.linx@gmail.com | Tel: Não informado | Cel: 51999999999
+ID: 93 | Nome: Josimar Bento Silva | Email: contatonossaotica.info@gmail.com | Tel: 3133674291 | Cel: 31971718050
+ID: 95 | Nome: Aryane Kato Seller Detroit | Email: aryaryanee@gmail.com | Tel: 1932386266 | Cel: 19982079227
+ID: 96 | Nome: ÓTICAS VISTA | Email: oticas_vista@hotmail.com | Tel: 9988084448 | Cel: 86999653302
+ID: 106 | Nome: FABRICA DE OCULOS SR | Email: juliano@oticasr.com.br | Tel: 1533052307 | Cel: 15998048998
+ID: 108 | Nome: MARCELO GAROFALO | Email: loja06@oticasr.com.br | Tel: 1147891460 | Cel: 11976656441
+ID: 109 | Nome: SR FABRICA DE OCULOS | Email: loja03@oticasr.com.br | Tel: 1147892066 | Cel: 11976656441
+ID: 110 | Nome: SR FABRICA DE OCULOS | Email: loja26@oticasr.com.br | Tel: 1141955013 | Cel: 11976656441
+ID: 111 | Nome: SR FABRICA DE OCULOS | Email: loja37@oticasr.com.br | Tel: 1145599651 | Cel: 11976656441
+ID: 112 | Nome: BCA OTICA EIRELLI | Email: loja47@oticasr.com.br | Tel: 1146145044 | Cel: 11976656441
+ID: 113 | Nome: SR FABRICA DE OCULOS | Email: loja39@oticasr.com.br | Tel: 1143022477 | Cel: 11976656441
+ID: 114 | Nome: Eliane | Email: massumi.ueda@gmail.com | Tel: 1198336569 | Cel: 11983365696
+ID: 115 | Nome: SR FABRICA DE OCULOS | Email: loja33@oticasr.com.br | Tel: 1142087427 | Cel: 11976656441
+ID: 116 | Nome: SR FABRICA DE OCULOS | Email: loja48@oticasr.com.br | Tel: 1144085995 | Cel: 11976656441
+ID: 117 | Nome: SR FABRICA DE OCULOS | Email: loja46@oticasr.com.br | Tel: 1142420060 | Cel: 11976656441
+ID: 118 | Nome: LUCAS CANOVAS | Email: lucascanovas@gmail.com | Tel: Não informado | Cel: 11991054471
+ID: 120 | Nome: BELLIOTICA | Email: elaine@belliotica.com.br | Tel: 1333277798 | Cel: 13981251507
+ID: 121 | Nome: Itelson | Email: itelsonrep@gmail.com | Tel: 8899695511 | Cel: 88996955110
+ID: 122 | Nome: Santiago Zanon | Email: comercial@grifedosol.com.br | Tel: 5132664556 | Cel: 11920066232
+ID: 123 | Nome: Guilherme | Email: fabiane1simoes@hotmail.com | Tel: 6530236547 | Cel: 65992892264
