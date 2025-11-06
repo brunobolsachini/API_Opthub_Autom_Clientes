@@ -1,5 +1,5 @@
-Atualizado em: 06/11/2025 15:26
-Registros encontrados: 39
+Atualizado em: 06/11/2025 15:30
+Registros encontrados: 38
 
 {
   "Errors": [],
@@ -9,8 +9,8 @@ Registros encontrados: 39
     "ErrorMessage": null,
     "Index": 0,
     "PageCount": 0,
-    "PageSize": 468,
-    "RecordCount": 39
+    "PageSize": 456,
+    "RecordCount": 38
   },
   "Result": [
     {
@@ -170,146 +170,14 @@ Registros encontrados: 39
       ]
     },
     {
-      "CustomerID": 69,
-      "CustomerName": "Stéphanie",
-      "ModerationStatus": [
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 10,
-          "SellerName": "Marketplace"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 11,
-          "SellerName": "LENÇO MÁGICO"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "approved",
-          "SellerID": 14,
-          "SellerName": "SAFILO"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "approved",
-          "SellerID": 15,
-          "SellerName": "MARCHON"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 17,
-          "SellerName": "HB"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 51,
-          "SellerName": "LUXOTTICA"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 52,
-          "SellerName": "DUSTER CONCEPT"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 53,
-          "SellerName": "COMPRE ÓCULOS"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 54,
-          "SellerName": "FEMI HEARTS"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 55,
-          "SellerName": "DETROIT EYEWEAR"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 56,
-          "SellerName": "BELARO"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 57,
-          "SellerName": "JADSOL"
-        }
-      ]
-    },
-    {
       "CustomerID": 71,
       "CustomerName": "Compre Óculos",
       "ModerationStatus": [
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 57,
-          "SellerName": "JADSOL"
-        },
-        {
-          "CustomerAcceptanceStatus": "approved",
-          "SellerAcceptanceStatus": "approved",
-          "SellerID": 56,
-          "SellerName": "BELARO"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 55,
-          "SellerName": "DETROIT EYEWEAR"
-        },
-        {
-          "CustomerAcceptanceStatus": "approved",
-          "SellerAcceptanceStatus": "approved",
-          "SellerID": 54,
-          "SellerName": "FEMI HEARTS"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 53,
-          "SellerName": "COMPRE ÓCULOS"
-        },
-        {
-          "CustomerAcceptanceStatus": "approved",
-          "SellerAcceptanceStatus": "approved",
-          "SellerID": 52,
-          "SellerName": "DUSTER CONCEPT"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 51,
-          "SellerName": "LUXOTTICA"
-        },
-        {
-          "CustomerAcceptanceStatus": "approved",
-          "SellerAcceptanceStatus": "approved",
-          "SellerID": 17,
-          "SellerName": "HB"
-        },
-        {
-          "CustomerAcceptanceStatus": "approved",
-          "SellerAcceptanceStatus": "approved",
-          "SellerID": 15,
-          "SellerName": "MARCHON"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 14,
-          "SellerName": "SAFILO"
+          "SellerID": 10,
+          "SellerName": "Marketplace"
         },
         {
           "CustomerAcceptanceStatus": "approved",
@@ -320,8 +188,62 @@ Registros encontrados: 39
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 10,
-          "SellerName": "Marketplace"
+          "SellerID": 14,
+          "SellerName": "SAFILO"
+        },
+        {
+          "CustomerAcceptanceStatus": "approved",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 15,
+          "SellerName": "MARCHON"
+        },
+        {
+          "CustomerAcceptanceStatus": "approved",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 17,
+          "SellerName": "HB"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 51,
+          "SellerName": "LUXOTTICA"
+        },
+        {
+          "CustomerAcceptanceStatus": "approved",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 52,
+          "SellerName": "DUSTER CONCEPT"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 53,
+          "SellerName": "COMPRE ÓCULOS"
+        },
+        {
+          "CustomerAcceptanceStatus": "approved",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 54,
+          "SellerName": "FEMI HEARTS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 55,
+          "SellerName": "DETROIT EYEWEAR"
+        },
+        {
+          "CustomerAcceptanceStatus": "approved",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 56,
+          "SellerName": "BELARO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 57,
+          "SellerName": "JADSOL"
         }
       ]
     },
@@ -331,63 +253,9 @@ Registros encontrados: 39
       "ModerationStatus": [
         {
           "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "approved",
-          "SellerID": 10,
-          "SellerName": "Marketplace"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 11,
-          "SellerName": "LENÇO MÁGICO"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 14,
-          "SellerName": "SAFILO"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 15,
-          "SellerName": "MARCHON"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 17,
-          "SellerName": "HB"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 51,
-          "SellerName": "LUXOTTICA"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 52,
-          "SellerName": "DUSTER CONCEPT"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 53,
-          "SellerName": "COMPRE ÓCULOS"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 54,
-          "SellerName": "FEMI HEARTS"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 55,
-          "SellerName": "DETROIT EYEWEAR"
+          "SellerID": 57,
+          "SellerName": "JADSOL"
         },
         {
           "CustomerAcceptanceStatus": "pending",
@@ -398,8 +266,62 @@ Registros encontrados: 39
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 57,
-          "SellerName": "JADSOL"
+          "SellerID": 55,
+          "SellerName": "DETROIT EYEWEAR"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 54,
+          "SellerName": "FEMI HEARTS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 53,
+          "SellerName": "COMPRE ÓCULOS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 52,
+          "SellerName": "DUSTER CONCEPT"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 51,
+          "SellerName": "LUXOTTICA"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 17,
+          "SellerName": "HB"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 15,
+          "SellerName": "MARCHON"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 14,
+          "SellerName": "SAFILO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 11,
+          "SellerName": "LENÇO MÁGICO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 10,
+          "SellerName": "Marketplace"
         }
       ]
     },
@@ -410,62 +332,8 @@ Registros encontrados: 39
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 57,
-          "SellerName": "JADSOL"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 56,
-          "SellerName": "BELARO"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 55,
-          "SellerName": "DETROIT EYEWEAR"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 54,
-          "SellerName": "FEMI HEARTS"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 53,
-          "SellerName": "COMPRE ÓCULOS"
-        },
-        {
-          "CustomerAcceptanceStatus": "approved",
-          "SellerAcceptanceStatus": "approved",
-          "SellerID": 52,
-          "SellerName": "DUSTER CONCEPT"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 51,
-          "SellerName": "LUXOTTICA"
-        },
-        {
-          "CustomerAcceptanceStatus": "approved",
-          "SellerAcceptanceStatus": "approved",
-          "SellerID": 17,
-          "SellerName": "HB"
-        },
-        {
-          "CustomerAcceptanceStatus": "approved",
-          "SellerAcceptanceStatus": "approved",
-          "SellerID": 15,
-          "SellerName": "MARCHON"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 14,
-          "SellerName": "SAFILO"
+          "SellerID": 10,
+          "SellerName": "Marketplace"
         },
         {
           "CustomerAcceptanceStatus": "approved",
@@ -476,8 +344,62 @@ Registros encontrados: 39
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 10,
-          "SellerName": "Marketplace"
+          "SellerID": 14,
+          "SellerName": "SAFILO"
+        },
+        {
+          "CustomerAcceptanceStatus": "approved",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 15,
+          "SellerName": "MARCHON"
+        },
+        {
+          "CustomerAcceptanceStatus": "approved",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 17,
+          "SellerName": "HB"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 51,
+          "SellerName": "LUXOTTICA"
+        },
+        {
+          "CustomerAcceptanceStatus": "approved",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 52,
+          "SellerName": "DUSTER CONCEPT"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 53,
+          "SellerName": "COMPRE ÓCULOS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 54,
+          "SellerName": "FEMI HEARTS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 55,
+          "SellerName": "DETROIT EYEWEAR"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 56,
+          "SellerName": "BELARO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 57,
+          "SellerName": "JADSOL"
         }
       ]
     },
@@ -488,62 +410,8 @@ Registros encontrados: 39
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 10,
-          "SellerName": "Marketplace"
-        },
-        {
-          "CustomerAcceptanceStatus": "approved",
-          "SellerAcceptanceStatus": "approved",
-          "SellerID": 11,
-          "SellerName": "LENÇO MÁGICO"
-        },
-        {
-          "CustomerAcceptanceStatus": "approved",
-          "SellerAcceptanceStatus": "approved",
-          "SellerID": 14,
-          "SellerName": "SAFILO"
-        },
-        {
-          "CustomerAcceptanceStatus": "approved",
-          "SellerAcceptanceStatus": "approved",
-          "SellerID": 15,
-          "SellerName": "MARCHON"
-        },
-        {
-          "CustomerAcceptanceStatus": "approved",
-          "SellerAcceptanceStatus": "approved",
-          "SellerID": 17,
-          "SellerName": "HB"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 51,
-          "SellerName": "LUXOTTICA"
-        },
-        {
-          "CustomerAcceptanceStatus": "approved",
-          "SellerAcceptanceStatus": "reproved",
-          "SellerID": 52,
-          "SellerName": "DUSTER CONCEPT"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 53,
-          "SellerName": "COMPRE ÓCULOS"
-        },
-        {
-          "CustomerAcceptanceStatus": "approved",
-          "SellerAcceptanceStatus": "approved",
-          "SellerID": 54,
-          "SellerName": "FEMI HEARTS"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 55,
-          "SellerName": "DETROIT EYEWEAR"
+          "SellerID": 57,
+          "SellerName": "JADSOL"
         },
         {
           "CustomerAcceptanceStatus": "pending",
@@ -554,8 +422,62 @@ Registros encontrados: 39
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 57,
-          "SellerName": "JADSOL"
+          "SellerID": 55,
+          "SellerName": "DETROIT EYEWEAR"
+        },
+        {
+          "CustomerAcceptanceStatus": "approved",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 54,
+          "SellerName": "FEMI HEARTS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 53,
+          "SellerName": "COMPRE ÓCULOS"
+        },
+        {
+          "CustomerAcceptanceStatus": "approved",
+          "SellerAcceptanceStatus": "reproved",
+          "SellerID": 52,
+          "SellerName": "DUSTER CONCEPT"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 51,
+          "SellerName": "LUXOTTICA"
+        },
+        {
+          "CustomerAcceptanceStatus": "approved",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 17,
+          "SellerName": "HB"
+        },
+        {
+          "CustomerAcceptanceStatus": "approved",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 15,
+          "SellerName": "MARCHON"
+        },
+        {
+          "CustomerAcceptanceStatus": "approved",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 14,
+          "SellerName": "SAFILO"
+        },
+        {
+          "CustomerAcceptanceStatus": "approved",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 11,
+          "SellerName": "LENÇO MÁGICO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 10,
+          "SellerName": "Marketplace"
         }
       ]
     },
@@ -566,62 +488,8 @@ Registros encontrados: 39
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 57,
-          "SellerName": "JADSOL"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 56,
-          "SellerName": "BELARO"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 55,
-          "SellerName": "DETROIT EYEWEAR"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 54,
-          "SellerName": "FEMI HEARTS"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 53,
-          "SellerName": "COMPRE ÓCULOS"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 52,
-          "SellerName": "DUSTER CONCEPT"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 51,
-          "SellerName": "LUXOTTICA"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 17,
-          "SellerName": "HB"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 15,
-          "SellerName": "MARCHON"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 14,
-          "SellerName": "SAFILO"
+          "SellerID": 10,
+          "SellerName": "Marketplace"
         },
         {
           "CustomerAcceptanceStatus": "pending",
@@ -632,8 +500,62 @@ Registros encontrados: 39
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 10,
-          "SellerName": "Marketplace"
+          "SellerID": 14,
+          "SellerName": "SAFILO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 15,
+          "SellerName": "MARCHON"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 17,
+          "SellerName": "HB"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 51,
+          "SellerName": "LUXOTTICA"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 52,
+          "SellerName": "DUSTER CONCEPT"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 53,
+          "SellerName": "COMPRE ÓCULOS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 54,
+          "SellerName": "FEMI HEARTS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 55,
+          "SellerName": "DETROIT EYEWEAR"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 56,
+          "SellerName": "BELARO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 57,
+          "SellerName": "JADSOL"
         }
       ]
     },
@@ -644,62 +566,8 @@ Registros encontrados: 39
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 10,
-          "SellerName": "Marketplace"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 11,
-          "SellerName": "LENÇO MÁGICO"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 14,
-          "SellerName": "SAFILO"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 15,
-          "SellerName": "MARCHON"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 17,
-          "SellerName": "HB"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 51,
-          "SellerName": "LUXOTTICA"
-        },
-        {
-          "CustomerAcceptanceStatus": "approved",
-          "SellerAcceptanceStatus": "approved",
-          "SellerID": 52,
-          "SellerName": "DUSTER CONCEPT"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 53,
-          "SellerName": "COMPRE ÓCULOS"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 54,
-          "SellerName": "FEMI HEARTS"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 55,
-          "SellerName": "DETROIT EYEWEAR"
+          "SellerID": 57,
+          "SellerName": "JADSOL"
         },
         {
           "CustomerAcceptanceStatus": "pending",
@@ -710,8 +578,62 @@ Registros encontrados: 39
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 57,
-          "SellerName": "JADSOL"
+          "SellerID": 55,
+          "SellerName": "DETROIT EYEWEAR"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 54,
+          "SellerName": "FEMI HEARTS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 53,
+          "SellerName": "COMPRE ÓCULOS"
+        },
+        {
+          "CustomerAcceptanceStatus": "approved",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 52,
+          "SellerName": "DUSTER CONCEPT"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 51,
+          "SellerName": "LUXOTTICA"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 17,
+          "SellerName": "HB"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 15,
+          "SellerName": "MARCHON"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 14,
+          "SellerName": "SAFILO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 11,
+          "SellerName": "LENÇO MÁGICO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 10,
+          "SellerName": "Marketplace"
         }
       ]
     },
@@ -722,62 +644,8 @@ Registros encontrados: 39
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 57,
-          "SellerName": "JADSOL"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 56,
-          "SellerName": "BELARO"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 55,
-          "SellerName": "DETROIT EYEWEAR"
-        },
-        {
-          "CustomerAcceptanceStatus": "approved",
-          "SellerAcceptanceStatus": "approved",
-          "SellerID": 54,
-          "SellerName": "FEMI HEARTS"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 53,
-          "SellerName": "COMPRE ÓCULOS"
-        },
-        {
-          "CustomerAcceptanceStatus": "approved",
-          "SellerAcceptanceStatus": "approved",
-          "SellerID": 52,
-          "SellerName": "DUSTER CONCEPT"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 51,
-          "SellerName": "LUXOTTICA"
-        },
-        {
-          "CustomerAcceptanceStatus": "approved",
-          "SellerAcceptanceStatus": "approved",
-          "SellerID": 17,
-          "SellerName": "HB"
-        },
-        {
-          "CustomerAcceptanceStatus": "approved",
-          "SellerAcceptanceStatus": "approved",
-          "SellerID": 15,
-          "SellerName": "MARCHON"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 14,
-          "SellerName": "SAFILO"
+          "SellerID": 10,
+          "SellerName": "Marketplace"
         },
         {
           "CustomerAcceptanceStatus": "approved",
@@ -788,8 +656,62 @@ Registros encontrados: 39
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 10,
-          "SellerName": "Marketplace"
+          "SellerID": 14,
+          "SellerName": "SAFILO"
+        },
+        {
+          "CustomerAcceptanceStatus": "approved",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 15,
+          "SellerName": "MARCHON"
+        },
+        {
+          "CustomerAcceptanceStatus": "approved",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 17,
+          "SellerName": "HB"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 51,
+          "SellerName": "LUXOTTICA"
+        },
+        {
+          "CustomerAcceptanceStatus": "approved",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 52,
+          "SellerName": "DUSTER CONCEPT"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 53,
+          "SellerName": "COMPRE ÓCULOS"
+        },
+        {
+          "CustomerAcceptanceStatus": "approved",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 54,
+          "SellerName": "FEMI HEARTS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 55,
+          "SellerName": "DETROIT EYEWEAR"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 56,
+          "SellerName": "BELARO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 57,
+          "SellerName": "JADSOL"
         }
       ]
     },
@@ -800,62 +722,8 @@ Registros encontrados: 39
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 10,
-          "SellerName": "Marketplace"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 11,
-          "SellerName": "LENÇO MÁGICO"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 14,
-          "SellerName": "SAFILO"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 15,
-          "SellerName": "MARCHON"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 17,
-          "SellerName": "HB"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 51,
-          "SellerName": "LUXOTTICA"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "approved",
-          "SellerID": 52,
-          "SellerName": "DUSTER CONCEPT"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 53,
-          "SellerName": "COMPRE ÓCULOS"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 54,
-          "SellerName": "FEMI HEARTS"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 55,
-          "SellerName": "DETROIT EYEWEAR"
+          "SellerID": 57,
+          "SellerName": "JADSOL"
         },
         {
           "CustomerAcceptanceStatus": "pending",
@@ -866,8 +734,62 @@ Registros encontrados: 39
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 57,
-          "SellerName": "JADSOL"
+          "SellerID": 55,
+          "SellerName": "DETROIT EYEWEAR"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 54,
+          "SellerName": "FEMI HEARTS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 53,
+          "SellerName": "COMPRE ÓCULOS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 52,
+          "SellerName": "DUSTER CONCEPT"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 51,
+          "SellerName": "LUXOTTICA"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 17,
+          "SellerName": "HB"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 15,
+          "SellerName": "MARCHON"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 14,
+          "SellerName": "SAFILO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 11,
+          "SellerName": "LENÇO MÁGICO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 10,
+          "SellerName": "Marketplace"
         }
       ]
     },
@@ -878,62 +800,8 @@ Registros encontrados: 39
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 57,
-          "SellerName": "JADSOL"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 56,
-          "SellerName": "BELARO"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 55,
-          "SellerName": "DETROIT EYEWEAR"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 54,
-          "SellerName": "FEMI HEARTS"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 53,
-          "SellerName": "COMPRE ÓCULOS"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 52,
-          "SellerName": "DUSTER CONCEPT"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 51,
-          "SellerName": "LUXOTTICA"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 17,
-          "SellerName": "HB"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 15,
-          "SellerName": "MARCHON"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 14,
-          "SellerName": "SAFILO"
+          "SellerID": 10,
+          "SellerName": "Marketplace"
         },
         {
           "CustomerAcceptanceStatus": "approved",
@@ -944,8 +812,62 @@ Registros encontrados: 39
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 10,
-          "SellerName": "Marketplace"
+          "SellerID": 14,
+          "SellerName": "SAFILO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 15,
+          "SellerName": "MARCHON"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 17,
+          "SellerName": "HB"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 51,
+          "SellerName": "LUXOTTICA"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 52,
+          "SellerName": "DUSTER CONCEPT"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 53,
+          "SellerName": "COMPRE ÓCULOS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 54,
+          "SellerName": "FEMI HEARTS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 55,
+          "SellerName": "DETROIT EYEWEAR"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 56,
+          "SellerName": "BELARO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 57,
+          "SellerName": "JADSOL"
         }
       ]
     },
@@ -956,56 +878,14 @@ Registros encontrados: 39
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 10,
-          "SellerName": "Marketplace"
+          "SellerID": 57,
+          "SellerName": "JADSOL"
         },
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 11,
-          "SellerName": "LENÇO MÁGICO"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 14,
-          "SellerName": "SAFILO"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 15,
-          "SellerName": "MARCHON"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 17,
-          "SellerName": "HB"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 51,
-          "SellerName": "LUXOTTICA"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 52,
-          "SellerName": "DUSTER CONCEPT"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 53,
-          "SellerName": "COMPRE ÓCULOS"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 54,
-          "SellerName": "FEMI HEARTS"
+          "SellerID": 56,
+          "SellerName": "BELARO"
         },
         {
           "CustomerAcceptanceStatus": "pending",
@@ -1016,14 +896,56 @@ Registros encontrados: 39
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 56,
-          "SellerName": "BELARO"
+          "SellerID": 54,
+          "SellerName": "FEMI HEARTS"
         },
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 57,
-          "SellerName": "JADSOL"
+          "SellerID": 53,
+          "SellerName": "COMPRE ÓCULOS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 52,
+          "SellerName": "DUSTER CONCEPT"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 51,
+          "SellerName": "LUXOTTICA"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 17,
+          "SellerName": "HB"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 15,
+          "SellerName": "MARCHON"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 14,
+          "SellerName": "SAFILO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 11,
+          "SellerName": "LENÇO MÁGICO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 10,
+          "SellerName": "Marketplace"
         }
       ]
     },
@@ -1034,62 +956,8 @@ Registros encontrados: 39
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 57,
-          "SellerName": "JADSOL"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 56,
-          "SellerName": "BELARO"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 55,
-          "SellerName": "DETROIT EYEWEAR"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 54,
-          "SellerName": "FEMI HEARTS"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 53,
-          "SellerName": "COMPRE ÓCULOS"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "approved",
-          "SellerID": 52,
-          "SellerName": "DUSTER CONCEPT"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 51,
-          "SellerName": "LUXOTTICA"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 17,
-          "SellerName": "HB"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 15,
-          "SellerName": "MARCHON"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 14,
-          "SellerName": "SAFILO"
+          "SellerID": 10,
+          "SellerName": "Marketplace"
         },
         {
           "CustomerAcceptanceStatus": "pending",
@@ -1100,8 +968,62 @@ Registros encontrados: 39
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 10,
-          "SellerName": "Marketplace"
+          "SellerID": 14,
+          "SellerName": "SAFILO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 15,
+          "SellerName": "MARCHON"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 17,
+          "SellerName": "HB"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 51,
+          "SellerName": "LUXOTTICA"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 52,
+          "SellerName": "DUSTER CONCEPT"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 53,
+          "SellerName": "COMPRE ÓCULOS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 54,
+          "SellerName": "FEMI HEARTS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 55,
+          "SellerName": "DETROIT EYEWEAR"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 56,
+          "SellerName": "BELARO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 57,
+          "SellerName": "JADSOL"
         }
       ]
     },
@@ -1112,62 +1034,8 @@ Registros encontrados: 39
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 10,
-          "SellerName": "Marketplace"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 11,
-          "SellerName": "LENÇO MÁGICO"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 14,
-          "SellerName": "SAFILO"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 15,
-          "SellerName": "MARCHON"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 17,
-          "SellerName": "HB"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 51,
-          "SellerName": "LUXOTTICA"
-        },
-        {
-          "CustomerAcceptanceStatus": "approved",
-          "SellerAcceptanceStatus": "approved",
-          "SellerID": 52,
-          "SellerName": "DUSTER CONCEPT"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 53,
-          "SellerName": "COMPRE ÓCULOS"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 54,
-          "SellerName": "FEMI HEARTS"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 55,
-          "SellerName": "DETROIT EYEWEAR"
+          "SellerID": 57,
+          "SellerName": "JADSOL"
         },
         {
           "CustomerAcceptanceStatus": "pending",
@@ -1178,8 +1046,62 @@ Registros encontrados: 39
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 57,
-          "SellerName": "JADSOL"
+          "SellerID": 55,
+          "SellerName": "DETROIT EYEWEAR"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 54,
+          "SellerName": "FEMI HEARTS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 53,
+          "SellerName": "COMPRE ÓCULOS"
+        },
+        {
+          "CustomerAcceptanceStatus": "approved",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 52,
+          "SellerName": "DUSTER CONCEPT"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 51,
+          "SellerName": "LUXOTTICA"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 17,
+          "SellerName": "HB"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 15,
+          "SellerName": "MARCHON"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 14,
+          "SellerName": "SAFILO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 11,
+          "SellerName": "LENÇO MÁGICO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 10,
+          "SellerName": "Marketplace"
         }
       ]
     },
@@ -1190,62 +1112,8 @@ Registros encontrados: 39
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 57,
-          "SellerName": "JADSOL"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 56,
-          "SellerName": "BELARO"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 55,
-          "SellerName": "DETROIT EYEWEAR"
-        },
-        {
-          "CustomerAcceptanceStatus": "approved",
-          "SellerAcceptanceStatus": "approved",
-          "SellerID": 54,
-          "SellerName": "FEMI HEARTS"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 53,
-          "SellerName": "COMPRE ÓCULOS"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 52,
-          "SellerName": "DUSTER CONCEPT"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 51,
-          "SellerName": "LUXOTTICA"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 17,
-          "SellerName": "HB"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 15,
-          "SellerName": "MARCHON"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 14,
-          "SellerName": "SAFILO"
+          "SellerID": 10,
+          "SellerName": "Marketplace"
         },
         {
           "CustomerAcceptanceStatus": "pending",
@@ -1256,8 +1124,62 @@ Registros encontrados: 39
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 10,
-          "SellerName": "Marketplace"
+          "SellerID": 14,
+          "SellerName": "SAFILO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 15,
+          "SellerName": "MARCHON"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 17,
+          "SellerName": "HB"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 51,
+          "SellerName": "LUXOTTICA"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 52,
+          "SellerName": "DUSTER CONCEPT"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 53,
+          "SellerName": "COMPRE ÓCULOS"
+        },
+        {
+          "CustomerAcceptanceStatus": "approved",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 54,
+          "SellerName": "FEMI HEARTS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 55,
+          "SellerName": "DETROIT EYEWEAR"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 56,
+          "SellerName": "BELARO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 57,
+          "SellerName": "JADSOL"
         }
       ]
     },
@@ -1268,62 +1190,8 @@ Registros encontrados: 39
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 10,
-          "SellerName": "Marketplace"
-        },
-        {
-          "CustomerAcceptanceStatus": "approved",
-          "SellerAcceptanceStatus": "approved",
-          "SellerID": 11,
-          "SellerName": "LENÇO MÁGICO"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 14,
-          "SellerName": "SAFILO"
-        },
-        {
-          "CustomerAcceptanceStatus": "approved",
-          "SellerAcceptanceStatus": "approved",
-          "SellerID": 15,
-          "SellerName": "MARCHON"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 17,
-          "SellerName": "HB"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 51,
-          "SellerName": "LUXOTTICA"
-        },
-        {
-          "CustomerAcceptanceStatus": "approved",
-          "SellerAcceptanceStatus": "approved",
-          "SellerID": 52,
-          "SellerName": "DUSTER CONCEPT"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 53,
-          "SellerName": "COMPRE ÓCULOS"
-        },
-        {
-          "CustomerAcceptanceStatus": "approved",
-          "SellerAcceptanceStatus": "approved",
-          "SellerID": 54,
-          "SellerName": "FEMI HEARTS"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 55,
-          "SellerName": "DETROIT EYEWEAR"
+          "SellerID": 57,
+          "SellerName": "JADSOL"
         },
         {
           "CustomerAcceptanceStatus": "pending",
@@ -1334,8 +1202,62 @@ Registros encontrados: 39
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 57,
-          "SellerName": "JADSOL"
+          "SellerID": 55,
+          "SellerName": "DETROIT EYEWEAR"
+        },
+        {
+          "CustomerAcceptanceStatus": "approved",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 54,
+          "SellerName": "FEMI HEARTS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 53,
+          "SellerName": "COMPRE ÓCULOS"
+        },
+        {
+          "CustomerAcceptanceStatus": "approved",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 52,
+          "SellerName": "DUSTER CONCEPT"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 51,
+          "SellerName": "LUXOTTICA"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 17,
+          "SellerName": "HB"
+        },
+        {
+          "CustomerAcceptanceStatus": "approved",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 15,
+          "SellerName": "MARCHON"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 14,
+          "SellerName": "SAFILO"
+        },
+        {
+          "CustomerAcceptanceStatus": "approved",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 11,
+          "SellerName": "LENÇO MÁGICO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 10,
+          "SellerName": "Marketplace"
         }
       ]
     },
@@ -1346,62 +1268,8 @@ Registros encontrados: 39
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 57,
-          "SellerName": "JADSOL"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 56,
-          "SellerName": "BELARO"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 55,
-          "SellerName": "DETROIT EYEWEAR"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 54,
-          "SellerName": "FEMI HEARTS"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 53,
-          "SellerName": "COMPRE ÓCULOS"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 52,
-          "SellerName": "DUSTER CONCEPT"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 51,
-          "SellerName": "LUXOTTICA"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 17,
-          "SellerName": "HB"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 15,
-          "SellerName": "MARCHON"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 14,
-          "SellerName": "SAFILO"
+          "SellerID": 10,
+          "SellerName": "Marketplace"
         },
         {
           "CustomerAcceptanceStatus": "pending",
@@ -1412,8 +1280,62 @@ Registros encontrados: 39
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 10,
-          "SellerName": "Marketplace"
+          "SellerID": 14,
+          "SellerName": "SAFILO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 15,
+          "SellerName": "MARCHON"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 17,
+          "SellerName": "HB"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 51,
+          "SellerName": "LUXOTTICA"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 52,
+          "SellerName": "DUSTER CONCEPT"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 53,
+          "SellerName": "COMPRE ÓCULOS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 54,
+          "SellerName": "FEMI HEARTS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 55,
+          "SellerName": "DETROIT EYEWEAR"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 56,
+          "SellerName": "BELARO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 57,
+          "SellerName": "JADSOL"
         }
       ]
     },
@@ -1424,62 +1346,8 @@ Registros encontrados: 39
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 10,
-          "SellerName": "Marketplace"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 11,
-          "SellerName": "LENÇO MÁGICO"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 14,
-          "SellerName": "SAFILO"
-        },
-        {
-          "CustomerAcceptanceStatus": "approved",
-          "SellerAcceptanceStatus": "approved",
-          "SellerID": 15,
-          "SellerName": "MARCHON"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 17,
-          "SellerName": "HB"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 51,
-          "SellerName": "LUXOTTICA"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 52,
-          "SellerName": "DUSTER CONCEPT"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 53,
-          "SellerName": "COMPRE ÓCULOS"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 54,
-          "SellerName": "FEMI HEARTS"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 55,
-          "SellerName": "DETROIT EYEWEAR"
+          "SellerID": 57,
+          "SellerName": "JADSOL"
         },
         {
           "CustomerAcceptanceStatus": "pending",
@@ -1490,8 +1358,62 @@ Registros encontrados: 39
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 57,
-          "SellerName": "JADSOL"
+          "SellerID": 55,
+          "SellerName": "DETROIT EYEWEAR"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 54,
+          "SellerName": "FEMI HEARTS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 53,
+          "SellerName": "COMPRE ÓCULOS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 52,
+          "SellerName": "DUSTER CONCEPT"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 51,
+          "SellerName": "LUXOTTICA"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 17,
+          "SellerName": "HB"
+        },
+        {
+          "CustomerAcceptanceStatus": "approved",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 15,
+          "SellerName": "MARCHON"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 14,
+          "SellerName": "SAFILO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 11,
+          "SellerName": "LENÇO MÁGICO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 10,
+          "SellerName": "Marketplace"
         }
       ]
     },
@@ -1502,62 +1424,8 @@ Registros encontrados: 39
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 57,
-          "SellerName": "JADSOL"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 56,
-          "SellerName": "BELARO"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 55,
-          "SellerName": "DETROIT EYEWEAR"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 54,
-          "SellerName": "FEMI HEARTS"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 53,
-          "SellerName": "COMPRE ÓCULOS"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 52,
-          "SellerName": "DUSTER CONCEPT"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 51,
-          "SellerName": "LUXOTTICA"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 17,
-          "SellerName": "HB"
-        },
-        {
-          "CustomerAcceptanceStatus": "approved",
-          "SellerAcceptanceStatus": "approved",
-          "SellerID": 15,
-          "SellerName": "MARCHON"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 14,
-          "SellerName": "SAFILO"
+          "SellerID": 10,
+          "SellerName": "Marketplace"
         },
         {
           "CustomerAcceptanceStatus": "pending",
@@ -1568,8 +1436,62 @@ Registros encontrados: 39
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 10,
-          "SellerName": "Marketplace"
+          "SellerID": 14,
+          "SellerName": "SAFILO"
+        },
+        {
+          "CustomerAcceptanceStatus": "approved",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 15,
+          "SellerName": "MARCHON"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 17,
+          "SellerName": "HB"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 51,
+          "SellerName": "LUXOTTICA"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 52,
+          "SellerName": "DUSTER CONCEPT"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 53,
+          "SellerName": "COMPRE ÓCULOS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 54,
+          "SellerName": "FEMI HEARTS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 55,
+          "SellerName": "DETROIT EYEWEAR"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 56,
+          "SellerName": "BELARO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 57,
+          "SellerName": "JADSOL"
         }
       ]
     },
@@ -1580,62 +1502,8 @@ Registros encontrados: 39
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 10,
-          "SellerName": "Marketplace"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 11,
-          "SellerName": "LENÇO MÁGICO"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 14,
-          "SellerName": "SAFILO"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 15,
-          "SellerName": "MARCHON"
-        },
-        {
-          "CustomerAcceptanceStatus": "approved",
-          "SellerAcceptanceStatus": "approved",
-          "SellerID": 17,
-          "SellerName": "HB"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 51,
-          "SellerName": "LUXOTTICA"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 52,
-          "SellerName": "DUSTER CONCEPT"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 53,
-          "SellerName": "COMPRE ÓCULOS"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 54,
-          "SellerName": "FEMI HEARTS"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 55,
-          "SellerName": "DETROIT EYEWEAR"
+          "SellerID": 57,
+          "SellerName": "JADSOL"
         },
         {
           "CustomerAcceptanceStatus": "pending",
@@ -1646,8 +1514,62 @@ Registros encontrados: 39
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 57,
-          "SellerName": "JADSOL"
+          "SellerID": 55,
+          "SellerName": "DETROIT EYEWEAR"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 54,
+          "SellerName": "FEMI HEARTS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 53,
+          "SellerName": "COMPRE ÓCULOS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 52,
+          "SellerName": "DUSTER CONCEPT"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 51,
+          "SellerName": "LUXOTTICA"
+        },
+        {
+          "CustomerAcceptanceStatus": "approved",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 17,
+          "SellerName": "HB"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 15,
+          "SellerName": "MARCHON"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 14,
+          "SellerName": "SAFILO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 11,
+          "SellerName": "LENÇO MÁGICO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 10,
+          "SellerName": "Marketplace"
         }
       ]
     },
@@ -1658,62 +1580,8 @@ Registros encontrados: 39
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 57,
-          "SellerName": "JADSOL"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 56,
-          "SellerName": "BELARO"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 55,
-          "SellerName": "DETROIT EYEWEAR"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 54,
-          "SellerName": "FEMI HEARTS"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 53,
-          "SellerName": "COMPRE ÓCULOS"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "approved",
-          "SellerID": 52,
-          "SellerName": "DUSTER CONCEPT"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 51,
-          "SellerName": "LUXOTTICA"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 17,
-          "SellerName": "HB"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "approved",
-          "SellerID": 15,
-          "SellerName": "MARCHON"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 14,
-          "SellerName": "SAFILO"
+          "SellerID": 10,
+          "SellerName": "Marketplace"
         },
         {
           "CustomerAcceptanceStatus": "pending",
@@ -1724,8 +1592,62 @@ Registros encontrados: 39
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 10,
-          "SellerName": "Marketplace"
+          "SellerID": 14,
+          "SellerName": "SAFILO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 15,
+          "SellerName": "MARCHON"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 17,
+          "SellerName": "HB"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 51,
+          "SellerName": "LUXOTTICA"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 52,
+          "SellerName": "DUSTER CONCEPT"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 53,
+          "SellerName": "COMPRE ÓCULOS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 54,
+          "SellerName": "FEMI HEARTS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 55,
+          "SellerName": "DETROIT EYEWEAR"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 56,
+          "SellerName": "BELARO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 57,
+          "SellerName": "JADSOL"
         }
       ]
     },
@@ -1736,62 +1658,8 @@ Registros encontrados: 39
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 10,
-          "SellerName": "Marketplace"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 11,
-          "SellerName": "LENÇO MÁGICO"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 14,
-          "SellerName": "SAFILO"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 15,
-          "SellerName": "MARCHON"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 17,
-          "SellerName": "HB"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 51,
-          "SellerName": "LUXOTTICA"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 52,
-          "SellerName": "DUSTER CONCEPT"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 53,
-          "SellerName": "COMPRE ÓCULOS"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 54,
-          "SellerName": "FEMI HEARTS"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 55,
-          "SellerName": "DETROIT EYEWEAR"
+          "SellerID": 57,
+          "SellerName": "JADSOL"
         },
         {
           "CustomerAcceptanceStatus": "pending",
@@ -1802,8 +1670,62 @@ Registros encontrados: 39
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 57,
-          "SellerName": "JADSOL"
+          "SellerID": 55,
+          "SellerName": "DETROIT EYEWEAR"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 54,
+          "SellerName": "FEMI HEARTS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 53,
+          "SellerName": "COMPRE ÓCULOS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 52,
+          "SellerName": "DUSTER CONCEPT"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 51,
+          "SellerName": "LUXOTTICA"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 17,
+          "SellerName": "HB"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 15,
+          "SellerName": "MARCHON"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 14,
+          "SellerName": "SAFILO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 11,
+          "SellerName": "LENÇO MÁGICO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 10,
+          "SellerName": "Marketplace"
         }
       ]
     },
@@ -1814,62 +1736,8 @@ Registros encontrados: 39
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 57,
-          "SellerName": "JADSOL"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 56,
-          "SellerName": "BELARO"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 55,
-          "SellerName": "DETROIT EYEWEAR"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 54,
-          "SellerName": "FEMI HEARTS"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 53,
-          "SellerName": "COMPRE ÓCULOS"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "approved",
-          "SellerID": 52,
-          "SellerName": "DUSTER CONCEPT"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 51,
-          "SellerName": "LUXOTTICA"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 17,
-          "SellerName": "HB"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "approved",
-          "SellerID": 15,
-          "SellerName": "MARCHON"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 14,
-          "SellerName": "SAFILO"
+          "SellerID": 10,
+          "SellerName": "Marketplace"
         },
         {
           "CustomerAcceptanceStatus": "pending",
@@ -1880,8 +1748,62 @@ Registros encontrados: 39
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 10,
-          "SellerName": "Marketplace"
+          "SellerID": 14,
+          "SellerName": "SAFILO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 15,
+          "SellerName": "MARCHON"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 17,
+          "SellerName": "HB"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 51,
+          "SellerName": "LUXOTTICA"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 52,
+          "SellerName": "DUSTER CONCEPT"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 53,
+          "SellerName": "COMPRE ÓCULOS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 54,
+          "SellerName": "FEMI HEARTS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 55,
+          "SellerName": "DETROIT EYEWEAR"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 56,
+          "SellerName": "BELARO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 57,
+          "SellerName": "JADSOL"
         }
       ]
     },
@@ -1892,62 +1814,8 @@ Registros encontrados: 39
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 10,
-          "SellerName": "Marketplace"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 11,
-          "SellerName": "LENÇO MÁGICO"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 14,
-          "SellerName": "SAFILO"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "approved",
-          "SellerID": 15,
-          "SellerName": "MARCHON"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 17,
-          "SellerName": "HB"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 51,
-          "SellerName": "LUXOTTICA"
-        },
-        {
-          "CustomerAcceptanceStatus": "approved",
-          "SellerAcceptanceStatus": "approved",
-          "SellerID": 52,
-          "SellerName": "DUSTER CONCEPT"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 53,
-          "SellerName": "COMPRE ÓCULOS"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 54,
-          "SellerName": "FEMI HEARTS"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 55,
-          "SellerName": "DETROIT EYEWEAR"
+          "SellerID": 57,
+          "SellerName": "JADSOL"
         },
         {
           "CustomerAcceptanceStatus": "pending",
@@ -1958,8 +1826,62 @@ Registros encontrados: 39
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 57,
-          "SellerName": "JADSOL"
+          "SellerID": 55,
+          "SellerName": "DETROIT EYEWEAR"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 54,
+          "SellerName": "FEMI HEARTS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 53,
+          "SellerName": "COMPRE ÓCULOS"
+        },
+        {
+          "CustomerAcceptanceStatus": "approved",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 52,
+          "SellerName": "DUSTER CONCEPT"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 51,
+          "SellerName": "LUXOTTICA"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 17,
+          "SellerName": "HB"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 15,
+          "SellerName": "MARCHON"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 14,
+          "SellerName": "SAFILO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 11,
+          "SellerName": "LENÇO MÁGICO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 10,
+          "SellerName": "Marketplace"
         }
       ]
     },
@@ -1970,62 +1892,8 @@ Registros encontrados: 39
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 57,
-          "SellerName": "JADSOL"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 56,
-          "SellerName": "BELARO"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 55,
-          "SellerName": "DETROIT EYEWEAR"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 54,
-          "SellerName": "FEMI HEARTS"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 53,
-          "SellerName": "COMPRE ÓCULOS"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "approved",
-          "SellerID": 52,
-          "SellerName": "DUSTER CONCEPT"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 51,
-          "SellerName": "LUXOTTICA"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 17,
-          "SellerName": "HB"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "approved",
-          "SellerID": 15,
-          "SellerName": "MARCHON"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 14,
-          "SellerName": "SAFILO"
+          "SellerID": 10,
+          "SellerName": "Marketplace"
         },
         {
           "CustomerAcceptanceStatus": "pending",
@@ -2036,8 +1904,62 @@ Registros encontrados: 39
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 10,
-          "SellerName": "Marketplace"
+          "SellerID": 14,
+          "SellerName": "SAFILO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 15,
+          "SellerName": "MARCHON"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 17,
+          "SellerName": "HB"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 51,
+          "SellerName": "LUXOTTICA"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 52,
+          "SellerName": "DUSTER CONCEPT"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 53,
+          "SellerName": "COMPRE ÓCULOS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 54,
+          "SellerName": "FEMI HEARTS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 55,
+          "SellerName": "DETROIT EYEWEAR"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 56,
+          "SellerName": "BELARO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 57,
+          "SellerName": "JADSOL"
         }
       ]
     },
@@ -2048,62 +1970,8 @@ Registros encontrados: 39
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 10,
-          "SellerName": "Marketplace"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 11,
-          "SellerName": "LENÇO MÁGICO"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 14,
-          "SellerName": "SAFILO"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "approved",
-          "SellerID": 15,
-          "SellerName": "MARCHON"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 17,
-          "SellerName": "HB"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 51,
-          "SellerName": "LUXOTTICA"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "approved",
-          "SellerID": 52,
-          "SellerName": "DUSTER CONCEPT"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 53,
-          "SellerName": "COMPRE ÓCULOS"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 54,
-          "SellerName": "FEMI HEARTS"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 55,
-          "SellerName": "DETROIT EYEWEAR"
+          "SellerID": 57,
+          "SellerName": "JADSOL"
         },
         {
           "CustomerAcceptanceStatus": "pending",
@@ -2114,8 +1982,62 @@ Registros encontrados: 39
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 57,
-          "SellerName": "JADSOL"
+          "SellerID": 55,
+          "SellerName": "DETROIT EYEWEAR"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 54,
+          "SellerName": "FEMI HEARTS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 53,
+          "SellerName": "COMPRE ÓCULOS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 52,
+          "SellerName": "DUSTER CONCEPT"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 51,
+          "SellerName": "LUXOTTICA"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 17,
+          "SellerName": "HB"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 15,
+          "SellerName": "MARCHON"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 14,
+          "SellerName": "SAFILO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 11,
+          "SellerName": "LENÇO MÁGICO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 10,
+          "SellerName": "Marketplace"
         }
       ]
     },
@@ -2126,62 +2048,8 @@ Registros encontrados: 39
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 57,
-          "SellerName": "JADSOL"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 56,
-          "SellerName": "BELARO"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 55,
-          "SellerName": "DETROIT EYEWEAR"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 54,
-          "SellerName": "FEMI HEARTS"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 53,
-          "SellerName": "COMPRE ÓCULOS"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "approved",
-          "SellerID": 52,
-          "SellerName": "DUSTER CONCEPT"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 51,
-          "SellerName": "LUXOTTICA"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 17,
-          "SellerName": "HB"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "approved",
-          "SellerID": 15,
-          "SellerName": "MARCHON"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 14,
-          "SellerName": "SAFILO"
+          "SellerID": 10,
+          "SellerName": "Marketplace"
         },
         {
           "CustomerAcceptanceStatus": "pending",
@@ -2192,8 +2060,62 @@ Registros encontrados: 39
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 10,
-          "SellerName": "Marketplace"
+          "SellerID": 14,
+          "SellerName": "SAFILO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 15,
+          "SellerName": "MARCHON"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 17,
+          "SellerName": "HB"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 51,
+          "SellerName": "LUXOTTICA"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 52,
+          "SellerName": "DUSTER CONCEPT"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 53,
+          "SellerName": "COMPRE ÓCULOS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 54,
+          "SellerName": "FEMI HEARTS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 55,
+          "SellerName": "DETROIT EYEWEAR"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 56,
+          "SellerName": "BELARO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 57,
+          "SellerName": "JADSOL"
         }
       ]
     },
@@ -2204,62 +2126,8 @@ Registros encontrados: 39
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 10,
-          "SellerName": "Marketplace"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 11,
-          "SellerName": "LENÇO MÁGICO"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 14,
-          "SellerName": "SAFILO"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "approved",
-          "SellerID": 15,
-          "SellerName": "MARCHON"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 17,
-          "SellerName": "HB"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 51,
-          "SellerName": "LUXOTTICA"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "approved",
-          "SellerID": 52,
-          "SellerName": "DUSTER CONCEPT"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 53,
-          "SellerName": "COMPRE ÓCULOS"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 54,
-          "SellerName": "FEMI HEARTS"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 55,
-          "SellerName": "DETROIT EYEWEAR"
+          "SellerID": 57,
+          "SellerName": "JADSOL"
         },
         {
           "CustomerAcceptanceStatus": "pending",
@@ -2270,8 +2138,62 @@ Registros encontrados: 39
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 57,
-          "SellerName": "JADSOL"
+          "SellerID": 55,
+          "SellerName": "DETROIT EYEWEAR"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 54,
+          "SellerName": "FEMI HEARTS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 53,
+          "SellerName": "COMPRE ÓCULOS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 52,
+          "SellerName": "DUSTER CONCEPT"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 51,
+          "SellerName": "LUXOTTICA"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 17,
+          "SellerName": "HB"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 15,
+          "SellerName": "MARCHON"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 14,
+          "SellerName": "SAFILO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 11,
+          "SellerName": "LENÇO MÁGICO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 10,
+          "SellerName": "Marketplace"
         }
       ]
     },
@@ -2282,62 +2204,8 @@ Registros encontrados: 39
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 57,
-          "SellerName": "JADSOL"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 56,
-          "SellerName": "BELARO"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 55,
-          "SellerName": "DETROIT EYEWEAR"
-        },
-        {
-          "CustomerAcceptanceStatus": "approved",
-          "SellerAcceptanceStatus": "approved",
-          "SellerID": 54,
-          "SellerName": "FEMI HEARTS"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 53,
-          "SellerName": "COMPRE ÓCULOS"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "approved",
-          "SellerID": 52,
-          "SellerName": "DUSTER CONCEPT"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 51,
-          "SellerName": "LUXOTTICA"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 17,
-          "SellerName": "HB"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 15,
-          "SellerName": "MARCHON"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 14,
-          "SellerName": "SAFILO"
+          "SellerID": 10,
+          "SellerName": "Marketplace"
         },
         {
           "CustomerAcceptanceStatus": "pending",
@@ -2348,8 +2216,62 @@ Registros encontrados: 39
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 10,
-          "SellerName": "Marketplace"
+          "SellerID": 14,
+          "SellerName": "SAFILO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 15,
+          "SellerName": "MARCHON"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 17,
+          "SellerName": "HB"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 51,
+          "SellerName": "LUXOTTICA"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 52,
+          "SellerName": "DUSTER CONCEPT"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 53,
+          "SellerName": "COMPRE ÓCULOS"
+        },
+        {
+          "CustomerAcceptanceStatus": "approved",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 54,
+          "SellerName": "FEMI HEARTS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 55,
+          "SellerName": "DETROIT EYEWEAR"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 56,
+          "SellerName": "BELARO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 57,
+          "SellerName": "JADSOL"
         }
       ]
     },
@@ -2360,62 +2282,8 @@ Registros encontrados: 39
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 10,
-          "SellerName": "Marketplace"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 11,
-          "SellerName": "LENÇO MÁGICO"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 14,
-          "SellerName": "SAFILO"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "approved",
-          "SellerID": 15,
-          "SellerName": "MARCHON"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 17,
-          "SellerName": "HB"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 51,
-          "SellerName": "LUXOTTICA"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "approved",
-          "SellerID": 52,
-          "SellerName": "DUSTER CONCEPT"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 53,
-          "SellerName": "COMPRE ÓCULOS"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 54,
-          "SellerName": "FEMI HEARTS"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 55,
-          "SellerName": "DETROIT EYEWEAR"
+          "SellerID": 57,
+          "SellerName": "JADSOL"
         },
         {
           "CustomerAcceptanceStatus": "pending",
@@ -2426,8 +2294,62 @@ Registros encontrados: 39
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 57,
-          "SellerName": "JADSOL"
+          "SellerID": 55,
+          "SellerName": "DETROIT EYEWEAR"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 54,
+          "SellerName": "FEMI HEARTS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 53,
+          "SellerName": "COMPRE ÓCULOS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 52,
+          "SellerName": "DUSTER CONCEPT"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 51,
+          "SellerName": "LUXOTTICA"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 17,
+          "SellerName": "HB"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 15,
+          "SellerName": "MARCHON"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 14,
+          "SellerName": "SAFILO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 11,
+          "SellerName": "LENÇO MÁGICO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 10,
+          "SellerName": "Marketplace"
         }
       ]
     },
@@ -2438,62 +2360,8 @@ Registros encontrados: 39
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 57,
-          "SellerName": "JADSOL"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 56,
-          "SellerName": "BELARO"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 55,
-          "SellerName": "DETROIT EYEWEAR"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 54,
-          "SellerName": "FEMI HEARTS"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 53,
-          "SellerName": "COMPRE ÓCULOS"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "approved",
-          "SellerID": 52,
-          "SellerName": "DUSTER CONCEPT"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 51,
-          "SellerName": "LUXOTTICA"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 17,
-          "SellerName": "HB"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "approved",
-          "SellerID": 15,
-          "SellerName": "MARCHON"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 14,
-          "SellerName": "SAFILO"
+          "SellerID": 10,
+          "SellerName": "Marketplace"
         },
         {
           "CustomerAcceptanceStatus": "pending",
@@ -2504,8 +2372,62 @@ Registros encontrados: 39
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 10,
-          "SellerName": "Marketplace"
+          "SellerID": 14,
+          "SellerName": "SAFILO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 15,
+          "SellerName": "MARCHON"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 17,
+          "SellerName": "HB"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 51,
+          "SellerName": "LUXOTTICA"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 52,
+          "SellerName": "DUSTER CONCEPT"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 53,
+          "SellerName": "COMPRE ÓCULOS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 54,
+          "SellerName": "FEMI HEARTS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 55,
+          "SellerName": "DETROIT EYEWEAR"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 56,
+          "SellerName": "BELARO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 57,
+          "SellerName": "JADSOL"
         }
       ]
     },
@@ -2516,62 +2438,8 @@ Registros encontrados: 39
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 10,
-          "SellerName": "Marketplace"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 11,
-          "SellerName": "LENÇO MÁGICO"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 14,
-          "SellerName": "SAFILO"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "approved",
-          "SellerID": 15,
-          "SellerName": "MARCHON"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 17,
-          "SellerName": "HB"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 51,
-          "SellerName": "LUXOTTICA"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "approved",
-          "SellerID": 52,
-          "SellerName": "DUSTER CONCEPT"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 53,
-          "SellerName": "COMPRE ÓCULOS"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 54,
-          "SellerName": "FEMI HEARTS"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 55,
-          "SellerName": "DETROIT EYEWEAR"
+          "SellerID": 57,
+          "SellerName": "JADSOL"
         },
         {
           "CustomerAcceptanceStatus": "pending",
@@ -2582,8 +2450,62 @@ Registros encontrados: 39
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 57,
-          "SellerName": "JADSOL"
+          "SellerID": 55,
+          "SellerName": "DETROIT EYEWEAR"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 54,
+          "SellerName": "FEMI HEARTS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 53,
+          "SellerName": "COMPRE ÓCULOS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 52,
+          "SellerName": "DUSTER CONCEPT"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 51,
+          "SellerName": "LUXOTTICA"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 17,
+          "SellerName": "HB"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 15,
+          "SellerName": "MARCHON"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 14,
+          "SellerName": "SAFILO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 11,
+          "SellerName": "LENÇO MÁGICO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 10,
+          "SellerName": "Marketplace"
         }
       ]
     },
@@ -2594,62 +2516,8 @@ Registros encontrados: 39
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 57,
-          "SellerName": "JADSOL"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 56,
-          "SellerName": "BELARO"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 55,
-          "SellerName": "DETROIT EYEWEAR"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 54,
-          "SellerName": "FEMI HEARTS"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 53,
-          "SellerName": "COMPRE ÓCULOS"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "approved",
-          "SellerID": 52,
-          "SellerName": "DUSTER CONCEPT"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 51,
-          "SellerName": "LUXOTTICA"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 17,
-          "SellerName": "HB"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "approved",
-          "SellerID": 15,
-          "SellerName": "MARCHON"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 14,
-          "SellerName": "SAFILO"
+          "SellerID": 10,
+          "SellerName": "Marketplace"
         },
         {
           "CustomerAcceptanceStatus": "pending",
@@ -2660,8 +2528,62 @@ Registros encontrados: 39
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 10,
-          "SellerName": "Marketplace"
+          "SellerID": 14,
+          "SellerName": "SAFILO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 15,
+          "SellerName": "MARCHON"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 17,
+          "SellerName": "HB"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 51,
+          "SellerName": "LUXOTTICA"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 52,
+          "SellerName": "DUSTER CONCEPT"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 53,
+          "SellerName": "COMPRE ÓCULOS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 54,
+          "SellerName": "FEMI HEARTS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 55,
+          "SellerName": "DETROIT EYEWEAR"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 56,
+          "SellerName": "BELARO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 57,
+          "SellerName": "JADSOL"
         }
       ]
     },
@@ -2672,20 +2594,50 @@ Registros encontrados: 39
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 10,
-          "SellerName": "Marketplace"
-        },
-        {
-          "CustomerAcceptanceStatus": "approved",
-          "SellerAcceptanceStatus": "approved",
-          "SellerID": 11,
-          "SellerName": "LENÇO MÁGICO"
+          "SellerID": 57,
+          "SellerName": "JADSOL"
         },
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 14,
-          "SellerName": "SAFILO"
+          "SellerID": 56,
+          "SellerName": "BELARO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 55,
+          "SellerName": "DETROIT EYEWEAR"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 54,
+          "SellerName": "FEMI HEARTS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 53,
+          "SellerName": "COMPRE ÓCULOS"
+        },
+        {
+          "CustomerAcceptanceStatus": "approved",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 52,
+          "SellerName": "DUSTER CONCEPT"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 51,
+          "SellerName": "LUXOTTICA"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 17,
+          "SellerName": "HB"
         },
         {
           "CustomerAcceptanceStatus": "approved",
@@ -2696,50 +2648,20 @@ Registros encontrados: 39
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 17,
-          "SellerName": "HB"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 51,
-          "SellerName": "LUXOTTICA"
+          "SellerID": 14,
+          "SellerName": "SAFILO"
         },
         {
           "CustomerAcceptanceStatus": "approved",
           "SellerAcceptanceStatus": "approved",
-          "SellerID": 52,
-          "SellerName": "DUSTER CONCEPT"
+          "SellerID": 11,
+          "SellerName": "LENÇO MÁGICO"
         },
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 53,
-          "SellerName": "COMPRE ÓCULOS"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 54,
-          "SellerName": "FEMI HEARTS"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 55,
-          "SellerName": "DETROIT EYEWEAR"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 56,
-          "SellerName": "BELARO"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 57,
-          "SellerName": "JADSOL"
+          "SellerID": 10,
+          "SellerName": "Marketplace"
         }
       ]
     },
@@ -2750,50 +2672,20 @@ Registros encontrados: 39
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 57,
-          "SellerName": "JADSOL"
+          "SellerID": 10,
+          "SellerName": "Marketplace"
         },
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 56,
-          "SellerName": "BELARO"
+          "SellerID": 11,
+          "SellerName": "LENÇO MÁGICO"
         },
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 55,
-          "SellerName": "DETROIT EYEWEAR"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 54,
-          "SellerName": "FEMI HEARTS"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 53,
-          "SellerName": "COMPRE ÓCULOS"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "approved",
-          "SellerID": 52,
-          "SellerName": "DUSTER CONCEPT"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 51,
-          "SellerName": "LUXOTTICA"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 17,
-          "SellerName": "HB"
+          "SellerID": 14,
+          "SellerName": "SAFILO"
         },
         {
           "CustomerAcceptanceStatus": "pending",
@@ -2804,20 +2696,50 @@ Registros encontrados: 39
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 14,
-          "SellerName": "SAFILO"
+          "SellerID": 17,
+          "SellerName": "HB"
         },
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 11,
-          "SellerName": "LENÇO MÁGICO"
+          "SellerID": 51,
+          "SellerName": "LUXOTTICA"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 52,
+          "SellerName": "DUSTER CONCEPT"
         },
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 10,
-          "SellerName": "Marketplace"
+          "SellerID": 53,
+          "SellerName": "COMPRE ÓCULOS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 54,
+          "SellerName": "FEMI HEARTS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 55,
+          "SellerName": "DETROIT EYEWEAR"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 56,
+          "SellerName": "BELARO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 57,
+          "SellerName": "JADSOL"
         }
       ]
     },
@@ -2828,62 +2750,8 @@ Registros encontrados: 39
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 10,
-          "SellerName": "Marketplace"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 11,
-          "SellerName": "LENÇO MÁGICO"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 14,
-          "SellerName": "SAFILO"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "approved",
-          "SellerID": 15,
-          "SellerName": "MARCHON"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 17,
-          "SellerName": "HB"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 51,
-          "SellerName": "LUXOTTICA"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "approved",
-          "SellerID": 52,
-          "SellerName": "DUSTER CONCEPT"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 53,
-          "SellerName": "COMPRE ÓCULOS"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 54,
-          "SellerName": "FEMI HEARTS"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 55,
-          "SellerName": "DETROIT EYEWEAR"
+          "SellerID": 57,
+          "SellerName": "JADSOL"
         },
         {
           "CustomerAcceptanceStatus": "pending",
@@ -2894,8 +2762,62 @@ Registros encontrados: 39
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 57,
-          "SellerName": "JADSOL"
+          "SellerID": 55,
+          "SellerName": "DETROIT EYEWEAR"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 54,
+          "SellerName": "FEMI HEARTS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 53,
+          "SellerName": "COMPRE ÓCULOS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 52,
+          "SellerName": "DUSTER CONCEPT"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 51,
+          "SellerName": "LUXOTTICA"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 17,
+          "SellerName": "HB"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 15,
+          "SellerName": "MARCHON"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 14,
+          "SellerName": "SAFILO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 11,
+          "SellerName": "LENÇO MÁGICO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 10,
+          "SellerName": "Marketplace"
         }
       ]
     },
@@ -2906,32 +2828,38 @@ Registros encontrados: 39
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 57,
-          "SellerName": "JADSOL"
+          "SellerID": 10,
+          "SellerName": "Marketplace"
         },
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 56,
-          "SellerName": "BELARO"
+          "SellerID": 11,
+          "SellerName": "LENÇO MÁGICO"
         },
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 55,
-          "SellerName": "DETROIT EYEWEAR"
+          "SellerID": 14,
+          "SellerName": "SAFILO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 15,
+          "SellerName": "MARCHON"
         },
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 54,
-          "SellerName": "FEMI HEARTS"
+          "SellerID": 17,
+          "SellerName": "HB"
         },
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 53,
-          "SellerName": "COMPRE ÓCULOS"
+          "SellerID": 51,
+          "SellerName": "LUXOTTICA"
         },
         {
           "CustomerAcceptanceStatus": "approved",
@@ -2942,90 +2870,6 @@ Registros encontrados: 39
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 51,
-          "SellerName": "LUXOTTICA"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 17,
-          "SellerName": "HB"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "approved",
-          "SellerID": 15,
-          "SellerName": "MARCHON"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 14,
-          "SellerName": "SAFILO"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 11,
-          "SellerName": "LENÇO MÁGICO"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 10,
-          "SellerName": "Marketplace"
-        }
-      ]
-    },
-    {
-      "CustomerID": 123,
-      "CustomerName": "Guilherme",
-      "ModerationStatus": [
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 10,
-          "SellerName": "Marketplace"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 11,
-          "SellerName": "LENÇO MÁGICO"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 14,
-          "SellerName": "SAFILO"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "approved",
-          "SellerID": 15,
-          "SellerName": "MARCHON"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 17,
-          "SellerName": "HB"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
-          "SellerID": 51,
-          "SellerName": "LUXOTTICA"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "approved",
-          "SellerID": 52,
-          "SellerName": "DUSTER CONCEPT"
-        },
-        {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
           "SellerID": 53,
           "SellerName": "COMPRE ÓCULOS"
         },
@@ -3052,6 +2896,84 @@ Registros encontrados: 39
           "SellerAcceptanceStatus": "pending",
           "SellerID": 57,
           "SellerName": "JADSOL"
+        }
+      ]
+    },
+    {
+      "CustomerID": 123,
+      "CustomerName": "Guilherme",
+      "ModerationStatus": [
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 57,
+          "SellerName": "JADSOL"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 56,
+          "SellerName": "BELARO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 55,
+          "SellerName": "DETROIT EYEWEAR"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 54,
+          "SellerName": "FEMI HEARTS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 53,
+          "SellerName": "COMPRE ÓCULOS"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 52,
+          "SellerName": "DUSTER CONCEPT"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 51,
+          "SellerName": "LUXOTTICA"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 17,
+          "SellerName": "HB"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "approved",
+          "SellerID": 15,
+          "SellerName": "MARCHON"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 14,
+          "SellerName": "SAFILO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 11,
+          "SellerName": "LENÇO MÁGICO"
+        },
+        {
+          "CustomerAcceptanceStatus": "pending",
+          "SellerAcceptanceStatus": "pending",
+          "SellerID": 10,
+          "SellerName": "Marketplace"
         }
       ]
     }
