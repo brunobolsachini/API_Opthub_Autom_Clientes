@@ -8,15 +8,17 @@ from email import encoders
 import logging
 from datetime import datetime
 import os
+import shutil
+import traceback
 
 # ============================================================
 # CONFIGURAÇÕES GERAIS
 # ============================================================
 API_URL = "https://opthub.layer.core.dcg.com.br/v1/Profile/API.svc/web/GetCustomer"
-OUTPUT_FILE = "Clientes_Pendentes.xlsx"
-LOG_FILE = "log_execucao_moderation.log"
+BASE_DIR = os.path.dirname(__file__)
+LOG_FILE = os.path.join(BASE_DIR, "log_execucao_moderation.log")
+OUTPUT_FILE = os.path.join(BASE_DIR, "Clientes_Pendentes.xlsx")
 
-# E-mail remetente e destinatários
 SENDER_EMAIL = "buyer.hb.opthub@gmail.com"
 SENDER_PASSWORD = "app-password-ou-senha-aqui"
 RECIPIENTS = "bruno@compreoculos.com.br,brunoera@gmail.com,comercial@opthub.com.br"
@@ -43,7 +45,6 @@ def get_customer_data(customer_id):
         }
 
         response = requests.post(API_URL, json=payload)
-
         if response.status_code != 200:
             logging.warning(f"Cliente {customer_id} retornou status {response.status_code}")
             return None
@@ -86,9 +87,6 @@ def salvar_excel(clientes):
         df = pd.DataFrame(clientes)
         with pd.ExcelWriter(OUTPUT_FILE, engine="openpyxl") as writer:
             df.to_excel(writer, index=False, sheet_name="Clientes")
-            # auto-ajustar colunas
-            for coluna in writer.sheets["Clientes"].columns:
-                pass  # (openpyxl não tem ajuste automático direto, mas Excel abre corretamente)
         logging.info(f"Arquivo Excel gerado: {OUTPUT_FILE}")
     except Exception as e:
         logging.error(f"Erro ao salvar Excel: {e}")
@@ -106,7 +104,7 @@ def enviar_email():
         body = "Segue em anexo o relatório atualizado de clientes pendentes de aceite e o log de execução."
         msg.attach(MIMEText(body, "plain"))
 
-        # anexar Excel
+        # anexar arquivos
         for file_path in [OUTPUT_FILE, LOG_FILE]:
             if os.path.exists(file_path):
                 part = MIMEBase("application", "octet-stream")
@@ -115,9 +113,13 @@ def enviar_email():
                 encoders.encode_base64(part)
                 part.add_header("Content-Disposition", f"attachment; filename={os.path.basename(file_path)}")
                 msg.attach(part)
+                logging.info(f"Anexo adicionado: {file_path}")
+            else:
+                logging.warning(f"Arquivo para anexo não encontrado: {file_path}")
 
         # Envio SMTP
-        server = smtplib.SMTP("smtp.gmail.com", 587)
+        logging.info("Tentando enviar e-mail...")
+        server = smtplib.SMTP("smtp.gmail.com", 587, timeout=30)
         server.starttls()
         server.login(SENDER_EMAIL, SENDER_PASSWORD)
         server.send_message(msg)
@@ -128,6 +130,7 @@ def enviar_email():
 
     except Exception as e:
         logging.error(f"Erro ao enviar e-mail: {e}")
+        logging.error(traceback.format_exc())
         print("❌ Falha ao enviar e-mail:", e)
 
 # ============================================================
@@ -135,8 +138,7 @@ def enviar_email():
 # ============================================================
 if __name__ == "__main__":
     try:
-        # IDs de clientes a consultar
-        lista_clientes = [64, 68, 69]  # exemplo; substituir pela lista real
+        lista_clientes = [64, 68, 69]  # IDs de exemplo
         logging.info(f"Iniciando coleta de {len(lista_clientes)} clientes...")
 
         clientes = processar_clientes(lista_clientes)
@@ -148,5 +150,13 @@ if __name__ == "__main__":
 
     except Exception as e:
         logging.error(f"Erro geral na execução: {e}")
+
+    # Copiar log para o diretório raiz do repositório
+    try:
+        raiz_repo = os.path.abspath(os.path.join(BASE_DIR, ".."))
+        shutil.copy(LOG_FILE, os.path.join(raiz_repo, "log_execucao_moderation.log"))
+        logging.info("Log copiado para o diretório raiz do repositório.")
+    except Exception as e:
+        logging.error(f"Falha ao copiar log para o repositório: {e}")
 
     logging.info("==== Fim da execução do script ====")
