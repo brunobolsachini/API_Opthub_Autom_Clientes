@@ -19,15 +19,14 @@ OUT_TXT = "Clientes_Pendentes.txt"
 GETCUSTOMER_URL = "https://opthub.layer.core.dcg.com.br/v1/Profile/API.svc/web/GetCustomer"
 
 
-# --- FUNÇÕES AUXILIARES ---
-
 def fetch_customer_email(customer_id):
     """Consulta o e-mail de um cliente pelo ID."""
     headers = {"Content-Type": "application/json", "Accept": "application/json"}
     body = {"CustomerID": customer_id}
 
     try:
-        resp = requests.post(GETCUSTOMER_URL, headers=headers, json=body, auth=(OPTHUB_USER, OPTHUB_PASS), timeout=30)
+        resp = requests.post(GETCUSTOMER_URL, headers=headers, json=body,
+                             auth=(OPTHUB_USER, OPTHUB_PASS), timeout=30)
         resp.raise_for_status()
         data = resp.json()
         return data.get("Email") or data.get("Result", {}).get("Email")
@@ -52,8 +51,6 @@ def send_email(subject, body_text):
         server.send_message(msg)
 
 
-# --- LÓGICA PRINCIPAL ---
-
 def main():
     if not os.path.exists(STATUS_FILE):
         print(f"❌ Arquivo {STATUS_FILE} não encontrado.")
@@ -62,14 +59,12 @@ def main():
     with open(STATUS_FILE, "r", encoding="utf-8") as f:
         data = json.load(f)
 
-    # Lista de clientes com seller aprovado e cliente pendente
     pendentes = []
     for customer in data.get("Result", []):
         customer_id = customer.get("CustomerID")
         customer_name = customer.get("CustomerName")
-        moderations = customer.get("ModerationStatus", [])
 
-        for status in moderations:
+        for status in customer.get("ModerationStatus", []):
             if status.get("SellerAcceptanceStatus") == "approved" and status.get("CustomerAcceptanceStatus") == "pending":
                 pendentes.append({"CustomerID": customer_id, "CustomerName": customer_name})
                 break  # adiciona só uma vez por cliente
@@ -93,7 +88,7 @@ def main():
 
     texto_final = "".join(linhas)
 
-    # Salvar TXT local
+    # Salvar TXT local (opcional para debug)
     with open(OUT_TXT, "w", encoding="utf-8") as f:
         f.write(texto_final)
 
