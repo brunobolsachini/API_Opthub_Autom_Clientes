@@ -3,13 +3,13 @@ name: Executar coleta e e-mail Opthub (diário 18h BRT)
 on:
   schedule:
     - cron: "0 21 * * *"   # 21:00 UTC = 18:00 BRT
-  workflow_dispatch:       # permite rodar manualmente
+  workflow_dispatch:
 
 jobs:
   run-opthub-automation:
     runs-on: ubuntu-latest
     permissions:
-      contents: write    # permite commitar no repositório
+      contents: write
 
     env:
       OPTHUB_USER: "bruno.opthub"
@@ -36,7 +36,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Run script
+      - name: Rodar main.py (gera StatusModeration)
         run: |
           python src/main.py
 
@@ -47,6 +47,10 @@ jobs:
           git add StatusModeration.json StatusModeration.txt || true
           git commit -m "Atualização automática StatusModeration $(date '+%d/%m/%Y %H:%M')" || echo "Nada a commitar"
           git push
+
+      - name: Rodar analisar_status_moderation.py (gera e-mail de pendentes)
+        run: |
+          python src/analisar_status_moderation.py
 
       - name: Upload artifact (debug)
         uses: actions/upload-artifact@v4
