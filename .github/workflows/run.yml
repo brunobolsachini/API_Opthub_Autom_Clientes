@@ -52,6 +52,14 @@ jobs:
         run: |
           python src/analisar_status_moderation.py
 
+      - name: Commit e push Clientes_Pendentes.txt
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add Clientes_Pendentes.txt || true
+          git commit -m "Atualização automática Clientes_Pendentes $(date '+%d/%m/%Y %H:%M')" || echo "Nada a commitar"
+          git push
+
       - name: Upload artifact (debug)
         uses: actions/upload-artifact@v4
         with:
