@@ -31,7 +31,7 @@ def log_step(log_exec, mensagem):
 
 
 def fetch_customer_info(customer_id, log_api, log_exec):
-    """Consulta o e-mail, telefone e celular do cliente."""
+    """Consulta o e-mail, telefone e celular do cliente (dados dentro de 'Contact')."""
     headers = {"Content-Type": "application/json", "Accept": "application/json"}
     email = None
     phone = None
@@ -47,14 +47,19 @@ def fetch_customer_info(customer_id, log_api, log_exec):
         if resp.status_code == 200:
             data = resp.json()
             email = data.get("Email")
-            phone = data.get("Phone")
-            cellphone = data.get("CellPhone")
+            contact = data.get("Contact", {})
+            phone = contact.get("Phone")
+            cellphone = contact.get("CellPhone")
         else:
             log_api.append(f"⚠️ Resposta inesperada: {resp.text[:200]}")
     except Exception as e:
         log_api.append(f"❌ Erro ao consultar ID {customer_id}: {e}")
 
-    log_step(log_exec, f"Consultado CustomerID {customer_id} -> Email: {email or 'N/A'} | Phone: {phone or 'N/A'} | Cell: {cellphone or 'N/A'}")
+    log_step(
+        log_exec,
+        f"Consultado CustomerID {customer_id} -> Email: {email or 'N/A'} | "
+        f"Phone: {phone or 'N/A'} | Cell: {cellphone or 'N/A'}"
+    )
     return email, phone, cellphone
 
 
@@ -156,7 +161,10 @@ def main():
             linhas.append("Nenhum cliente pendente encontrado.\n")
         else:
             for c in pendentes:
-                linhas.append(f"ID: {c['CustomerID']} | Nome: {c['CustomerName']} | Email: {c['Email']} | Tel: {c['Phone']} | Cel: {c['CellPhone']}\n")
+                linhas.append(
+                    f"ID: {c['CustomerID']} | Nome: {c['CustomerName']} | "
+                    f"Email: {c['Email']} | Tel: {c['Phone']} | Cel: {c['CellPhone']}\n"
+                )
 
         with open(TXT_FILE, "w", encoding="utf-8") as f:
             f.write("".join(linhas))
