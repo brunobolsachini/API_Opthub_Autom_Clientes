@@ -6,6 +6,7 @@ from email.message import EmailMessage
 from datetime import datetime, timezone
 import requests
 import pandas as pd
+from textwrap import shorten
 
 OPTHUB_URL = "https://opthub.layer.core.dcg.com.br/v1/Profile/API.svc/web/GetStatusModerationCustomerMarketplace"
 
@@ -13,25 +14,9 @@ def ensure_out_dir(path: str):
     os.makedirs(path, exist_ok=True)
 
 def fetch_status_moderation(username: str, password: str) -> dict:
-    """Consulta o endpoint e retorna o JSON bruto."""
-    body = {
-        "Page": {
-            "PageIndex": 0,
-            "PageSize": 10000
-        }
-    }
-    headers = {
-        "Content-Type": "application/json",
-        "Accept": "application/json"
-    }
-
-    resp = requests.post(
-        OPTHUB_URL,
-        headers=headers,
-        json=body,
-        auth=(username, password),  # Basic Auth – ajustamos depois se mudar
-        timeout=120
-    )
+    body = {"Page": {"PageIndex": 0, "PageSize": 10000}}
+    headers = {"Content-Type": "application/json", "Accept": "application/json"}
+    resp = requests.post(OPTHUB_URL, headers=headers, json=body, auth=(username, password), timeout=120)
     resp.raise_for_status()
     try:
         return resp.json()
@@ -39,34 +24,42 @@ def fetch_status_moderation(username: str, password: str) -> dict:
         return {"raw_text": resp.text}
 
 def normalize_payload_to_dataframe(payload: dict) -> pd.DataFrame:
-    """
-    Tenta encontrar a lista de registros dentro do JSON retornado.
-    Adapta automaticamente se vier em 'model', 'data', 'items', etc.
-    """
     if not isinstance(payload, dict):
         return pd.DataFrame([payload])
-
     for key in ["model", "data", "items", "results", "value"]:
         if key in payload and isinstance(payload[key], list):
             return pd.DataFrame(payload[key])
-
-    # Se não achar lista, converte tudo
     return pd.json_normalize(payload)
 
-def save_excel(payload: dict, out_dir: str, base_name: str) -> str:
-    """Salva o resultado em formato Excel."""
+def save_files(payload: dict, out_dir: str, base_name: str):
     df = normalize_payload_to_dataframe(payload)
-
     now = datetime.now(timezone.utc).astimezone()
     stamp = now.strftime("%Y%m%d_%H%M%S")
-    filepath = os.path.join(out_dir, f"{base_name}_{stamp}.xlsx")
 
-    with pd.ExcelWriter(filepath, engine="openpyxl") as writer:
+    # Caminhos
+    excel_path = os.path.join(out_dir, f"{base_name}_{stamp}.xlsx")
+    json_path  = os.path.join(out_dir, f"{base_name}.json")
+    txt_path   = os.path.join(out_dir, f"{base_name}.txt")
+
+    # Excel (histórico)
+    with pd.ExcelWriter(excel_path, engine="openpyxl") as writer:
         df.to_excel(writer, index=False, sheet_name="StatusModeration")
 
-    return filepath, len(df)
+    # JSON (usado por outro endpoint futuramente)
+    with open(json_path, "w", encoding="utf-8") as f:
+        json.dump(payload, f, ensure_ascii=False, indent=2)
 
-def send_email(gmail_user: str, gmail_pass: str, recipients_csv: str, subject: str, body: str, attachment_path: str):
+    # TXT (resumo para leitura humana)
+    resumo = [f"Atualizado em: {now.strftime('%d/%m/%Y %H:%M:%S')}"]
+    resumo.append(f"Total de registros: {len(df)}\n")
+    preview = df.head(10).to_string(index=False)
+    resumo.append("Prévia dos primeiros registros:\n" + preview)
+    with open(txt_path, "w", encoding="utf-8") as f:
+        f.write("\n".join(resumo))
+
+    return excel_path, json_path, txt_path, len(df)
+
+def send_email(gmail_user, gmail_pass, recipients_csv, subject, body, attachment_path):
     recipients = [r.strip() for r in recipients_csv.split(",") if r.strip()]
     msg = EmailMessage()
     msg["From"] = gmail_user
@@ -74,7 +67,6 @@ def send_email(gmail_user: str, gmail_pass: str, recipients_csv: str, subject: s
     msg["Subject"] = subject
     msg.set_content(body)
 
-    # Anexar arquivo XLSX
     with open(attachment_path, "rb") as f:
         data = f.read()
     msg.add_attachment(
@@ -99,33 +91,17 @@ def main():
     gmail_pass = os.getenv("GMAIL_PASS")
     recipients = os.getenv("RECIPIENTS")
 
-    if not all([opthub_user, opthub_pass, gmail_user, gmail_pass, recipients]):
-        raise RuntimeError("Faltam variáveis de ambiente obrigatórias (OPTHUB_*, GMAIL_*, RECIPIENTS).")
-
     ensure_out_dir(out_dir)
 
-    # 1️⃣ Buscar dados
     payload = fetch_status_moderation(opthub_user, opthub_pass)
+    excel_path, json_path, txt_path, qtd = save_files(payload, ".", base_name)
 
-    # 2️⃣ Salvar Excel
-    excel_path, qtd = save_excel(payload, out_dir, base_name)
-
-    # 3️⃣ Montar e enviar e-mail
-    agora_brt = datetime.now().strftime("%d/%m/%Y %H:%M")
-    subject = f"[Opthub] Status Moderation - {agora_brt}"
+    subject = f"[Opthub] Status Moderation - {datetime.now().strftime('%d/%m/%Y %H:%M')}"
     body = (
         "Olá, Bruno!\n\n"
-        "Segue em anexo o retorno do endpoint GetStatusModerationCustomerMarketplace "
-        "em formato Excel (.xlsx).\n\n"
+        "Segue em anexo o arquivo Excel com os dados do endpoint "
+        "GetStatusModerationCustomerMarketplace.\n\n"
         f"Foram encontrados {qtd} registros.\n\n"
-        "Assim que você me passar os campos correspondentes a 'Aprovação do Seller' "
-        "e 'Aprovação do Cliente', aplico o filtro e envio apenas os pendentes.\n\n"
-        f"Arquivo: {os.path.basename(excel_path)}\n"
-        "— Automação API_Opthub_Autom_Clientes"
-    )
-
-    send_email(gmail_user, gmail_pass, recipients, subject, body, excel_path)
-    print(f"OK - Arquivo salvo em {excel_path} e e-mail enviado para {recipients}")
-
-if __name__ == "__main__":
-    main()
+        "Além disso, os arquivos 'StatusModeration.json' e 'StatusModeration.txt' "
+        "foram atualizados na raiz do repositório para controle e uso interno.\n\n"
+        "— Automação
