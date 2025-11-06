@@ -16,7 +16,7 @@ jobs:
       OPTHUB_PASS: ${{ secrets.Pss_Opthub }}
       GMAIL_USER: "bruno@compreoculos.com.br"
       GMAIL_PASS: ${{ secrets.Pss_APP_Gmail }}
-      RECIPIENTS: "bruno@compreoculos.com.br,brunoera@gmail.com"
+      RECIPIENTS: "bruno@compreoculos.com.br,brunoera@gmail.com,comercial@opthub.com.br"
       OUTPUT_DIR: "out"
       STATUS_FILE_BASENAME: "StatusModeration"
 
