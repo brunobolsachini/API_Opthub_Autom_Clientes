@@ -1,4 +1,4 @@
-Atualizado em: 09/11/2025 21:01
+Atualizado em: 10/11/2025 21:02
 Registros encontrados: 38
 
 {
@@ -240,8 +240,8 @@ Registros encontrados: 38
           "SellerName": "BELARO"
         },
         {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
+          "CustomerAcceptanceStatus": "approved",
+          "SellerAcceptanceStatus": "approved",
           "SellerID": 57,
           "SellerName": "JADSOL"
         }

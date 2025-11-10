@@ -237,8 +237,8 @@
           "SellerName": "BELARO"
         },
         {
-          "CustomerAcceptanceStatus": "pending",
-          "SellerAcceptanceStatus": "pending",
+          "CustomerAcceptanceStatus": "approved",
+          "SellerAcceptanceStatus": "approved",
           "SellerID": 57,
           "SellerName": "JADSOL"
         }
