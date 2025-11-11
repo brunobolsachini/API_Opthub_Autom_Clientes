@@ -1,4 +1,4 @@
-Atualizado em: 10/11/2025 21:02
+Atualizado em: 11/11/2025 21:02
 Registros encontrados: 38
 
 {
@@ -86,7 +86,7 @@ Registros encontrados: 38
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 57,
+          "SellerID": 58,
           "SellerName": "JADSOL"
         }
       ]
@@ -98,7 +98,7 @@ Registros encontrados: 38
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 57,
+          "SellerID": 58,
           "SellerName": "JADSOL"
         },
         {
@@ -242,7 +242,7 @@ Registros encontrados: 38
         {
           "CustomerAcceptanceStatus": "approved",
           "SellerAcceptanceStatus": "approved",
-          "SellerID": 57,
+          "SellerID": 58,
           "SellerName": "JADSOL"
         }
       ]
@@ -254,7 +254,7 @@ Registros encontrados: 38
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 57,
+          "SellerID": 58,
           "SellerName": "JADSOL"
         },
         {
@@ -398,7 +398,7 @@ Registros encontrados: 38
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 57,
+          "SellerID": 58,
           "SellerName": "JADSOL"
         }
       ]
@@ -410,7 +410,7 @@ Registros encontrados: 38
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 57,
+          "SellerID": 58,
           "SellerName": "JADSOL"
         },
         {
@@ -554,7 +554,7 @@ Registros encontrados: 38
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 57,
+          "SellerID": 58,
           "SellerName": "JADSOL"
         }
       ]
@@ -566,7 +566,7 @@ Registros encontrados: 38
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 57,
+          "SellerID": 58,
           "SellerName": "JADSOL"
         },
         {
@@ -710,7 +710,7 @@ Registros encontrados: 38
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 57,
+          "SellerID": 58,
           "SellerName": "JADSOL"
         }
       ]
@@ -722,7 +722,7 @@ Registros encontrados: 38
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 57,
+          "SellerID": 58,
           "SellerName": "JADSOL"
         },
         {
@@ -866,7 +866,7 @@ Registros encontrados: 38
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 57,
+          "SellerID": 58,
           "SellerName": "JADSOL"
         }
       ]
@@ -878,7 +878,7 @@ Registros encontrados: 38
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 57,
+          "SellerID": 58,
           "SellerName": "JADSOL"
         },
         {
@@ -1022,7 +1022,7 @@ Registros encontrados: 38
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 57,
+          "SellerID": 58,
           "SellerName": "JADSOL"
         }
       ]
@@ -1034,7 +1034,7 @@ Registros encontrados: 38
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 57,
+          "SellerID": 58,
           "SellerName": "JADSOL"
         },
         {
@@ -1178,7 +1178,7 @@ Registros encontrados: 38
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 57,
+          "SellerID": 58,
           "SellerName": "JADSOL"
         }
       ]
@@ -1190,7 +1190,7 @@ Registros encontrados: 38
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 57,
+          "SellerID": 58,
           "SellerName": "JADSOL"
         },
         {
@@ -1334,7 +1334,7 @@ Registros encontrados: 38
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 57,
+          "SellerID": 58,
           "SellerName": "JADSOL"
         }
       ]
@@ -1346,7 +1346,7 @@ Registros encontrados: 38
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 57,
+          "SellerID": 58,
           "SellerName": "JADSOL"
         },
         {
@@ -1490,7 +1490,7 @@ Registros encontrados: 38
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 57,
+          "SellerID": 58,
           "SellerName": "JADSOL"
         }
       ]
@@ -1502,7 +1502,7 @@ Registros encontrados: 38
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 57,
+          "SellerID": 58,
           "SellerName": "JADSOL"
         },
         {
@@ -1646,7 +1646,7 @@ Registros encontrados: 38
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 57,
+          "SellerID": 58,
           "SellerName": "JADSOL"
         }
       ]
@@ -1658,7 +1658,7 @@ Registros encontrados: 38
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 57,
+          "SellerID": 58,
           "SellerName": "JADSOL"
         },
         {
@@ -1802,7 +1802,7 @@ Registros encontrados: 38
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 57,
+          "SellerID": 58,
           "SellerName": "JADSOL"
         }
       ]
@@ -1814,7 +1814,7 @@ Registros encontrados: 38
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 57,
+          "SellerID": 58,
           "SellerName": "JADSOL"
         },
         {
@@ -1958,7 +1958,7 @@ Registros encontrados: 38
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 57,
+          "SellerID": 58,
           "SellerName": "JADSOL"
         }
       ]
@@ -1970,7 +1970,7 @@ Registros encontrados: 38
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 57,
+          "SellerID": 58,
           "SellerName": "JADSOL"
         },
         {
@@ -2114,7 +2114,7 @@ Registros encontrados: 38
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 57,
+          "SellerID": 58,
           "SellerName": "JADSOL"
         }
       ]
@@ -2126,7 +2126,7 @@ Registros encontrados: 38
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 57,
+          "SellerID": 58,
           "SellerName": "JADSOL"
         },
         {
@@ -2270,7 +2270,7 @@ Registros encontrados: 38
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 57,
+          "SellerID": 58,
           "SellerName": "JADSOL"
         }
       ]
@@ -2282,7 +2282,7 @@ Registros encontrados: 38
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 57,
+          "SellerID": 58,
           "SellerName": "JADSOL"
         },
         {
@@ -2426,7 +2426,7 @@ Registros encontrados: 38
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 57,
+          "SellerID": 58,
           "SellerName": "JADSOL"
         }
       ]
@@ -2438,7 +2438,7 @@ Registros encontrados: 38
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 57,
+          "SellerID": 58,
           "SellerName": "JADSOL"
         },
         {
@@ -2582,7 +2582,7 @@ Registros encontrados: 38
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 57,
+          "SellerID": 58,
           "SellerName": "JADSOL"
         }
       ]
@@ -2594,7 +2594,7 @@ Registros encontrados: 38
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 57,
+          "SellerID": 58,
           "SellerName": "JADSOL"
         },
         {
@@ -2738,7 +2738,7 @@ Registros encontrados: 38
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 57,
+          "SellerID": 58,
           "SellerName": "JADSOL"
         }
       ]
@@ -2750,7 +2750,7 @@ Registros encontrados: 38
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 57,
+          "SellerID": 58,
           "SellerName": "JADSOL"
         },
         {
@@ -2894,7 +2894,7 @@ Registros encontrados: 38
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 57,
+          "SellerID": 58,
           "SellerName": "JADSOL"
         }
       ]
@@ -2906,7 +2906,7 @@ Registros encontrados: 38
         {
           "CustomerAcceptanceStatus": "pending",
           "SellerAcceptanceStatus": "pending",
-          "SellerID": 57,
+          "SellerID": 58,
           "SellerName": "JADSOL"
         },
         {
